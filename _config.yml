@@ -1,0 +1,39 @@
+repository: superdzj/superdzj.github.io
+repository_url: https://github.com/superdzj/superdzj.github.io
+
+timezone: Asia/Shanghai
+lang: zh_CN
+
+title: PUMPKIN
+alias_en: PUMPKIN
+alias_cn: PUMPKIN
+description: Trick or tread
+keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
+url: https://byr-navi.com
+established_at: "2019-12-28T00:00+08:00"
+
+author: iROCKBUNNY
+author_url: https://irockbunny.com
+organization: TEELAB
+organization_url: https://teelab.net
+contact: contact[at]irockbunny[dot]com
+
+image: /images/logo.png
+logo: /images/logo.png
+logo_dark: /images/logo-dark.svg
+logo_white: /images/logo-white.svg
+
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+
+exclude:
+- .gitignore
+- .travis.yml
+- LICENSE
+- README.md
+- CNAME
+- Gemfile
+- Gemfile.lock
+- script
+- vendor

@@ -1,0 +1,163 @@
+- categories:
+  - name: 博客
+    links:
+    - name: 南瓜园
+      style: basic
+      url: https://pumpkin.baklib.com/
+
+    - name: 如有乐享
+      style: basic
+      url: https://51.ruyo.net/
+
+    - name: P3TERX ZONE
+      style: basic
+      url: https://p3terx.com/
+
+    - name: 老D博客
+      style: basic
+      url: https://laod.cn/
+
+    - name: 萌咖
+      style: basic
+      url: https://moeclub.org/
+
+    - name: LocMJJ博客
+      style: basic
+      url: https://www.locmjj.com
+
+    - name: Rat's Blog
+      style: basic
+      url: https://www.moerats.com
+
+    - name: 404 NOT FOUND
+      style: basic
+      url: https://404edublog.ml
+
+    
+
+  - name: 工具
+    links:
+    - name: 奶牛快传
+      style: basic
+      url: https://cowtransfer.com/
+
+    - name: Glyptodon Enterprise Demo
+      style: basic
+      url: https://demo.glyptodon.com/
+
+    - name: 聚名
+      style: basic
+      url: http://www.jm.cn/
+
+    - name: convertio
+      style: basic
+      url: https://convertio.co/zh/
+
+    - name: Firefox Send
+      style: basic
+      url: https://mail.qq.com/
+
+    - name: Free Public DNS Server
+      style: basic
+      url: https://dns.icoa.cn/
+
+    - name: 在线工具
+      style: basic
+      url: http://mctool.cn/
+
+    - name: webstack.cc
+      style: basic
+      url: https://webstack.cc/
+      
+    - name: 在线JSON校验格式化工具
+      style: basic
+      url: https://www.bejson.com
+      
+    - name: 在线工具
+      style: basic
+      url: https://tool.oschina.net
+    
+
+  - name: 海淘
+    links:
+    - name: Chemist Direct
+      style: basic
+      url: https://www.chemistdirect.com.au
+
+    - name: Pharmacy Online
+      style: basic
+      url: https://www.pharmacyonline.com.au
+
+    - name: Pharmacy Direct
+      style: basic
+      url: https://www.pharmacydirect.com.au
+
+    - name: Chemist Warehouse
+      style: basic
+      url: https://www.chemistwarehouse.com.au/
+
+    - name: 吉祥邮
+      style: basic
+      url: https://www.jixiangyou.com
+
+   
+- categories:
+  - name: 虚拟服务器
+    links:
+    - name: Heroku
+      style: basic
+      url: https://dashboard.heroku.com/apps
+
+    - name: IBM CLOUD
+      style: basic
+      url: https://cloud.ibm.com
+
+    - name: ORACLE CLOUD
+      style: basic
+      url: https://console.ap-tokyo-1.oraclecloud.com
+
+    - name: virmach
+      style: basic
+      url: https://billing.virmach.com/clientarea.php
+
+    - name: dynadot
+      style: basic
+      url: https://www.dynadot.com/zh/
+
+   
+
+  - name: 论坛
+    links:
+    - name: 全球主机交流论坛
+      style: basic
+      url: https://www.hostloc.com
+      
+    - name: 恩山无线论坛
+      style: basic
+      url: https://www.right.com.cn/
+
+    - name: V2EX
+      style: basic
+      url: https://v2ex.com/
+
+    - name: 矿渣社区
+      style: basic
+      url: bbs.nas66.com
+      
+  - name: 影视
+    links:
+    - name: 奈菲影视
+      style: basic
+      url: https://www.nfmovies.com
+
+    - name: 在线之家
+      style: basic
+      url: https://www.zxzjs.com
+
+    - name: 乐福智能解析
+      style: basic
+      url: https://www.lefu.men/sp2/
+
+    - name: NO视频
+      style: basic
+      url: https://www.novipnoad.com/
