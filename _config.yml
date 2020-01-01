@@ -1,5 +1,5 @@
-repository: superdzj/superdzj.github.io
-repository_url: https://github.com/superdzj/superdzj.github.io
+repository: superdzj/navi.github.io
+repository_url: https://github.com/superdzj/navi.github.io
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -8,8 +8,8 @@ title: PUMPKIN
 alias_en: PUMPKIN
 alias_cn: PUMPKIN
 description: Trick or tread
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
+keywords: PUMPKIN, Navi, Navigation
+url: https://pumpkin.best
 established_at: "2019-12-28T00:00+08:00"
 
 author: iROCKBUNNY
