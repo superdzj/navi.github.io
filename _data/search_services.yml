@@ -345,7 +345,7 @@
     style: black
     show: false
 
- id: 618G
+- id: 618G
   name: 618G免费解析
   url: https://jx.618g.com={query}
   shortcut:
