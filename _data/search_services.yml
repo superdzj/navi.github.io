@@ -346,10 +346,18 @@
     show: false
 
 - id: 618G
-  name: 视频解析
+  name: 在线视频一
   url: https://jx.618g.com/?url={query}
   shortcut:
     icon: film blue inverted
+    style: black
+    show: true
+
+- id: m1970
+  name: 在线视频二
+  url: https://z1.m1907.cn/?jx=={query}
+  shortcut:
+    icon: film orange inverted
     style: black
     show: true
 
