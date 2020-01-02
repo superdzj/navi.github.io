@@ -347,7 +347,7 @@
 
 - id: 618G
   name: 618G免费解析
-  url: https://jx.618g.com={query}
+  url: https://jx.618g.com/?url={query}
   shortcut:
     icon: film blue inverted
     style: black
