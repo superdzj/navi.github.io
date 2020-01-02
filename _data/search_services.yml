@@ -92,7 +92,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: true
+    show: false
 
 - id: weixinarticle
   name: 微信文章
@@ -108,7 +108,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: true
+    show: false
 
 - id: baiduxueshu
   name: 百度学术
