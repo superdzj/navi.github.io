@@ -92,7 +92,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: false
+    show: true
 
 - id: weixinarticle
   name: 微信文章
@@ -100,7 +100,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: false
+    show: true
 
 - id: minapp
   name: 微信小程序
@@ -108,7 +108,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: false
+    show: true
 
 - id: baiduxueshu
   name: 百度学术
@@ -346,7 +346,7 @@
     show: false
 
 - id: 618G
-  name: 618G免费解析
+  name: 视频解析
   url: https://jx.618g.com/?url={query}
   shortcut:
     icon: film blue inverted

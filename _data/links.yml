@@ -3,23 +3,23 @@
     links:
     - name: 南瓜园
       style: basic
-      url: https://pumpkin.baklib.com/
+      url: https://pumpkin.baklib.com
 
     - name: 如有乐享
       style: basic
-      url: https://51.ruyo.net/
+      url: https://51.ruyo.net
 
     - name: P3TERX ZONE
       style: basic
-      url: https://p3terx.com/
+      url: https://p3terx.com
 
     - name: 老D博客
       style: basic
-      url: https://laod.cn/
+      url: https://laod.cn
 
     - name: 萌咖
       style: basic
-      url: https://moeclub.org/
+      url: https://moeclub.org
 
     - name: LocMJJ博客
       style: basic
@@ -39,27 +39,27 @@
     links:
     - name: 奶牛快传
       style: basic
-      url: https://cowtransfer.com/
+      url: https://cowtransfer.com
 
     - name: Glyptodon Enterprise Demo
       style: basic
-      url: https://demo.glyptodon.com/
+      url: https://demo.glyptodon.com
 
     - name: 聚名
       style: basic
-      url: http://www.jm.cn/
+      url: http://www.jm.cn
 
     - name: convertio
       style: basic
-      url: https://convertio.co/zh/
+      url: https://convertio.co/zh
 
     - name: Firefox Send
       style: basic
-      url: https://mail.qq.com/
+      url: https://mail.qq.com
 
     - name: Free Public DNS Server
       style: basic
-      url: https://dns.icoa.cn/
+      url: https://dns.icoa.cn
 
     - name: 在线工具
       style: basic
@@ -67,7 +67,7 @@
 
     - name: webstack.cc
       style: basic
-      url: https://webstack.cc/
+      url: https://webstack.cc
       
     - name: 在线JSON校验格式化工具
       style: basic
@@ -94,7 +94,7 @@
 
     - name: Chemist Warehouse
       style: basic
-      url: https://www.chemistwarehouse.com.au/
+      url: https://www.chemistwarehouse.com.au
 
     - name: 吉祥邮
       style: basic
@@ -122,7 +122,7 @@
 
     - name: dynadot
       style: basic
-      url: https://www.dynadot.com/zh/
+      url: https://www.dynadot.com/zh
 
    
 
@@ -134,7 +134,7 @@
       
     - name: 恩山无线论坛
       style: basic
-      url: https://www.right.com.cn/
+      url: https://www.right.com.cn
 
     - name: V2EX
       style: basic
@@ -156,8 +156,13 @@
 
     - name: 乐福智能解析
       style: basic
-      url: https://www.lefu.men/sp2/
+      url: https://www.lefu.men/sp2
 
     - name: NO视频
       style: basic
-      url: https://www.novipnoad.com/
+      url: https://www.novipnoad.com
+
+    - name: 高清电视直播
+      style: basic
+      url: http://ivi.bupt.edu.cn
+
