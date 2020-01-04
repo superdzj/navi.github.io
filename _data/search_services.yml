@@ -18,7 +18,7 @@
   name: Magi
   url: https://magi.com/search?q={query}
   shortcut:
-    icon: spider secondary inverted
+    icon: spider purple inverted
     style: black
     show: true
 
@@ -357,7 +357,7 @@
   name: 在线视频一
   url: https://jx.618g.com/?url={query}
   shortcut:
-    icon: film blue inverted
+    icon: film brown inverted
     style: black
     show: true
 
