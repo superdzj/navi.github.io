@@ -10,7 +10,7 @@
   name: 秘迹搜索
   url: https://mijisou.com/?q={query}
   shortcut:
-    icon: mask  inverted
+    icon: mask grey  inverted
     style: black
     show: true
 
