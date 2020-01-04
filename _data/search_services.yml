@@ -6,7 +6,7 @@
     style: black
     show: true
 
-- id: baidu
+- id: mijisou
   name: 秘迹搜索
   url: https://mijisou.com/?q={query}
   shortcut:
@@ -14,7 +14,7 @@
     style: black
     show: true
 
-- id: baidu
+- id: magi
   name: Magi
   url: https://magi.com/search?q={query}
   shortcut:
@@ -22,13 +22,13 @@
     style: black
     show: true
 
-- id: googlescholar
-  name: 谷歌学术
+- id: goooglescholar
+  name: goooglescholar
   url: https://scholar.123admin.com/scholar?q={query}
   shortcut:
     icon: graduation cap blue inverted
     style: black
-    show: false
+    show: true
 
 - id: baidu
   name: 百度
