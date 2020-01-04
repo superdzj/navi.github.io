@@ -33,6 +33,10 @@
       style: basic
       url: https://404edublog.ml
 
+    - name: BFDZ
+      style: basic
+      url: https://www.bfdz.ink
+
     
 
   - name: 工具
@@ -40,6 +44,18 @@
     - name: 奶牛快传
       style: basic
       url: https://cowtransfer.com
+
+    - name: 文叔叔
+      style: basic
+      url: https://www.wenshushu.cn
+
+    - name: Firefox Send
+      style: basic
+      url: https://send.firefox.com
+
+    - name: Blaze
+      style: basic
+      url: https://blaze.now.sh
 
     - name: Glyptodon Enterprise Demo
       style: basic
@@ -52,10 +68,6 @@
     - name: convertio
       style: basic
       url: https://convertio.co/zh
-
-    - name: Firefox Send
-      style: basic
-      url: https://mail.qq.com
 
     - name: Free Public DNS Server
       style: basic
@@ -161,6 +173,10 @@
     - name: NO视频
       style: basic
       url: https://www.novipnoad.com
+
+    - name: 疯狂影视搜索
+      style: basic
+      url: https://ifkdy.com
 
     - name: 高清电视直播
       style: basic
