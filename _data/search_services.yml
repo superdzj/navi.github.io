@@ -1,3 +1,11 @@
+- id: gooogle
+  name: Google
+  url: https://g.vearea.cn/search?source=hp&ei=KDQQXo7ZC8_6rQG6uJOIAQ&q={query}
+  shortcut:
+    icon: google red inverted
+    style: black
+    show: true
+
 - id: baidu
   name: 秘迹搜索
   url: https://mijisou.com/?q={query}
@@ -13,6 +21,14 @@
     icon: paw blue inverted
     style: black
     show: true
+
+- id: googlescholar
+  name: 谷歌学术
+  url: https://scholar.123admin.com/scholar?q={query}
+  shortcut:
+    icon: graduation cap blue inverted
+    style: black
+    show: false
 
 - id: baidu
   name: 百度
