@@ -10,7 +10,7 @@
   name: 秘迹搜索
   url: https://mijisou.com/?q={query}
   shortcut:
-    icon: paw blue inverted
+    icon: mask  inverted
     style: black
     show: true
 
@@ -18,7 +18,7 @@
   name: Magi
   url: https://magi.com/search?q={query}
   shortcut:
-    icon: paw blue inverted
+    icon: spider secondary inverted
     style: black
     show: true
 
@@ -126,13 +126,13 @@
 #    style: black
 #    show: false
 
-#- id: weixinarticle
-#  name: 微信文章
-#  url: http://weixin.sogou.com/weixin?type=2&query={query}&ie=utf8
-#  shortcut:
-#    icon: weixin green inverted
-#    style: black
-#    show: true
+- id: weixinarticle
+  name: 微信文章
+  url: http://weixin.sogou.com/weixin?type=2&query={query}&ie=utf8
+  shortcut:
+    icon: weixin green inverted
+    style: black
+    show: true
 
 #- id: minapp
 #  name: 微信小程序
