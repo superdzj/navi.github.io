@@ -8,7 +8,7 @@
 
 - id: baidu
   name: Magi
-  url:https://magi.com/search?q={query}
+  url: https://magi.com/search?q={query}
   shortcut:
     icon: paw blue inverted
     style: black
