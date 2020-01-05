@@ -29,20 +29,20 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>BYR-Navi/analytics.js at master · BYR-Navi/BYR-Navi</title>
-    <meta name="description" content="A Light-Weight and Configurable Navigation Website Framework (for BYR) - BYR-Navi/BYR-Navi">
+  <title>navi.github.io/analytics.js at ae0c229f9aad387f08e566801d9b9e88bf4608cf · superdzj/navi.github.io</title>
+    <meta name="description" content="Contribute to superdzj/navi.github.io development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
-    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/29173178?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="BYR-Navi/BYR-Navi" /><meta name="twitter:description" content="A Light-Weight and Configurable Navigation Website Framework (for BYR) - BYR-Navi/BYR-Navi" />
-    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/29173178?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="BYR-Navi/BYR-Navi" /><meta property="og:url" content="https://github.com/BYR-Navi/BYR-Navi" /><meta property="og:description" content="A Light-Weight and Configurable Navigation Website Framework (for BYR) - BYR-Navi/BYR-Navi" />
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/17596984?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="superdzj/navi.github.io" /><meta name="twitter:description" content="Contribute to superdzj/navi.github.io development by creating an account on GitHub." />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/17596984?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="superdzj/navi.github.io" /><meta property="og:url" content="https://github.com/superdzj/navi.github.io" /><meta property="og:description" content="Contribute to superdzj/navi.github.io development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDgzNTYwMTQ5OjQzOWIzNWI0NmNlYTI1YTE4YTFjMjI5MDVmZDRkODA5NGIyZTBjZjAzYWRhMTJiMmRhMWQ2MThhZWU1Y2ExZmQ=--808d74d14dd1042d0471a6a803f39bf7e5f3545c">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDgzNTYwMTQ5OmY1Mjg3OWFkYzdiYzk3OTc5Njc1NjAyYmY1MDkwMDdjOGIxNTIzM2FhNjMwNjU1MDgxOGIwZGE4NWYzYTJlZTk=--06947e82269739c519e69c93d47cf5a19ae85613">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-    <meta name="request-id" content="FFA8:1075:65714D9:8F9CFC2:5E114AD2" data-pjax-transient>
+    <meta name="request-id" content="C056:1CB5:1BBBDE3:27406E9:5E114D04" data-pjax-transient>
 
 
 
@@ -54,7 +54,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="FFA8:1075:65714D9:8F9CFC2:5E114AD2" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="9112335494469687779" /><meta name="octolytics-actor-id" content="17596984" /><meta name="octolytics-actor-login" content="superdzj" /><meta name="octolytics-actor-hash" content="ec09227401d16e959653c266586499c818e07ee2f07a159b57bfcbfe65e6e1c5" />
+    <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="C056:1CB5:1BBBDE3:27406E9:5E114D04" /><meta name="octolytics-dimension-region_edge" content="ap-southeast-1" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" /><meta name="octolytics-dimension-visitor_id" content="9112335494469687779" /><meta name="octolytics-actor-id" content="17596984" /><meta name="octolytics-actor-login" content="superdzj" /><meta name="octolytics-actor-hash" content="ec09227401d16e959653c266586499c818e07ee2f07a159b57bfcbfe65e6e1c5" />
 
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
@@ -75,7 +75,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NGVlNjlhMzRlY2Q2MjYwNzM5YTRiYTQwODMyNmY3MDMyOGIzMzhmZWM2MTVlZjM5OWQ1NzE0MDE1YTU3ZGY5Znx7InJlbW90ZV9hZGRyZXNzIjoiMjE4Ljc5LjE1Ny4xMzYiLCJyZXF1ZXN0X2lkIjoiRkZBODoxMDc1OjY1NzE0RDk6OEY5Q0ZDMjo1RTExNEFEMiIsInRpbWVzdGFtcCI6MTU3ODE5MTU5MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MTI2MDRiYzhmYzA3MmM4NDkzYWQzZWZjZjIxZGZlOTQ1YTc2ZDc5YzNiZTY4YTg1MTQwYzNjMWQwY2IzOGJkNnx7InJlbW90ZV9hZGRyZXNzIjoiMjE4Ljc5LjE1Ny4xMzYiLCJyZXF1ZXN0X2lkIjoiQzA1NjoxQ0I1OjFCQkJERTM6Mjc0MDZFOTo1RTExNEQwNCIsInRpbWVzdGFtcCI6MTU3ODE5MjE1NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -84,14 +84,14 @@
   <meta http-equiv="x-pjax-version" content="f603fb087583c1a6811f39fc57b1f446">
   
 
-      <link href="https://github.com/BYR-Navi/BYR-Navi/commits/master.atom" rel="alternate" title="Recent Commits to BYR-Navi:master" type="application/atom+xml">
+      <link href="https://github.com/superdzj/navi.github.io/commits/ae0c229f9aad387f08e566801d9b9e88bf4608cf.atom" rel="alternate" title="Recent Commits to navi.github.io:ae0c229f9aad387f08e566801d9b9e88bf4608cf" type="application/atom+xml">
 
-  <meta name="go-import" content="github.com/BYR-Navi/BYR-Navi git https://github.com/BYR-Navi/BYR-Navi.git">
+  <meta name="go-import" content="github.com/superdzj/navi.github.io git https://github.com/superdzj/navi.github.io.git">
 
-  <meta name="octolytics-dimension-user_id" content="29173178" /><meta name="octolytics-dimension-user_login" content="BYR-Navi" /><meta name="octolytics-dimension-repository_id" content="69995498" /><meta name="octolytics-dimension-repository_nwo" content="BYR-Navi/BYR-Navi" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="69995498" /><meta name="octolytics-dimension-repository_network_root_nwo" content="BYR-Navi/BYR-Navi" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+  <meta name="octolytics-dimension-user_id" content="17596984" /><meta name="octolytics-dimension-user_login" content="superdzj" /><meta name="octolytics-dimension-repository_id" content="231211361" /><meta name="octolytics-dimension-repository_nwo" content="superdzj/navi.github.io" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="231211361" /><meta name="octolytics-dimension-repository_network_root_nwo" content="superdzj/navi.github.io" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -151,7 +151,7 @@
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="69995498" data-scoped-search-url="/BYR-Navi/BYR-Navi/search" data-unscoped-search-url="/search" action="/BYR-Navi/BYR-Navi/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="231211361" data-scoped-search-url="/superdzj/navi.github.io/search" data-unscoped-search-url="/search" action="/superdzj/navi.github.io/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
           class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
@@ -165,7 +165,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=A0Bmu7fg0vDmm5BIHSx0z5+yscpj3DhOpDAGRNuspiEzxX7Yzm0/bPPF6H4jJNxuXOGJZWJts1EZRdCZvqr/6w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=UCJjAZIhxk9l84R6zukiZD3dM17hjn58VKwxsVNbOw5gp3ti66wr03Ct/Ezw4YrF/o4L8eA/9WPp2edsNl1ixA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -318,7 +318,7 @@
       <img class="avatar" height="20" width="20" alt="@superdzj" src="https://avatars0.githubusercontent.com/u/17596984?s=60&amp;v=4" />
       superdzj
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="r4WuYawAH62HnxKmAZk4x7GaKUmSTPtT7+pxNruQGWxsDv9hG9bd0dQ0TzIS3Aki+S7tYM3w8ps8aa8eV5QYFw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DKujX75j73Cc2r/MdHGnmV7/7BclxJ+nw5XBnkTSA/nPIPJfCbUtDM9x4lhnNJZ8FksoPnp4lm8QFh+2qNYCgg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -330,9 +330,9 @@
     <div class="Header-item Header-item--full flex-justify-center d-lg-none position-relative">
       <div class="css-truncate css-truncate-target width-fit position-absolute left-0 right-0 text-center">
               <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-    <a class="Header-link" href="/BYR-Navi">BYR-Navi</a>
+    <a class="Header-link" href="/superdzj">superdzj</a>
     /
-    <a class="Header-link" href="/BYR-Navi/BYR-Navi">BYR-Navi</a>
+    <a class="Header-link" href="/superdzj/navi.github.io">navi.github.io</a>
 
 </div>
     </div>
@@ -376,9 +376,9 @@
 
   <div role="none" class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="BYR-Navi/BYR-Navi">This repository</span>
+    <span title="superdzj/navi.github.io">This repository</span>
   </div>
-    <a role="menuitem" class="dropdown-item" href="/BYR-Navi/BYR-Navi/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
+    <a role="menuitem" class="dropdown-item" href="/superdzj/navi.github.io/issues/new" data-ga-click="Header, create new issue" data-skip-pjax>
       New issue
     </a>
 
@@ -411,7 +411,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:29173178,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:17596984,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;}}" data-hydro-click-hmac="3e51e0568e98da8fb89ae4c971811ca59511b06dbbd9632cbcc592243a7d6fc2">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:17596984,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:17596984,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;}}" data-hydro-click-hmac="79337d0172eea3f4b1bd53ce4a4b684c567499bbbd9bae9802d52c74df14c465">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -438,7 +438,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="7Ne4hKSkrkh9xyIn22RUpn8hdeVvPZJAARHxF09q6lnYOmMNje3UdPczsN1NUw8OA6fzIkHsMgEvIq3x6BCMyQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="wyOdeqchUQCGjUhQHM/iz16LsCYrJc9t0p1h6eqaKQD3zkbzjmgrPAx52qqK+LlnIg024QX0byz8rj0PTeBPkA==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -558,17 +558,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-01-05T11:03:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-01-05T11:12:36+08:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-01-05T11:33:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-01-05T11:42:36+08:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-01-05T14:33:10+08:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-01-05T14:42:36+08:00">
             in 4 hours
           </button>
         </li>
@@ -626,10 +626,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/superdzj/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}"
-    data-feature-preview-close-hmac="2da2c3c9bc229996fefa431c358481ecd90db21d0a5c20648b2cc65e8d524c13"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}"
-    data-hydro-click-hmac="d6b1c8e0b04ed3394abd95e5265648c9fe2f01c20679f5f3ea2d1cd6792184f1"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}"
+    data-feature-preview-close-hmac="7c82c89aae405e37768fd2b8a94990721352c2e0e3f8553a3af8a7a3b06766e2"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}"
+    data-hydro-click-hmac="d429777d60a936fc6d11892359c5c2481f1444e91fdcabe3be9eec5505ada232"
   >
     Feature preview
   </button>
@@ -638,14 +638,14 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="G3eUGyoQcXVwwgftCXcRfqaTUGLpCcoGuf3sMXroN3zY/MUbncazCSNpWnkaMiCb7ieUS7a1w85qfjIZluw2Bw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="R5XnsrTVyBmUMxlhwZSZmEceGji0EYJEzQM6S6OByHOEHrayAwMKZceYRPXS0ah9D6reEeuti4wegORjT4XJCA==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_8bef" hidden="hidden" class="form-control" />
-<input type="hidden" name="timestamp" value="1578191590956" class="form-control" />
-<input type="hidden" name="timestamp_secret" value="f7e50d99208f54391ac3cc9a81ed705d83c5b49e43e8559da34fffafc3a017fc" class="form-control" />
+      <input type="text" name="required_field_5fe8" hidden="hidden" class="form-control" />
+<input type="hidden" name="timestamp" value="1578192156994" class="form-control" />
+<input type="hidden" name="timestamp_secret" value="6789d687d78625bd55f313bb701903c9b7fa29f36b9e830400979c7caf804db0" class="form-control" />
 
 </form>  </details-menu>
 </details>
@@ -682,17 +682,14 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="4a57894c55a7036503c03a852e2db060558a39be52b00dab29110e428c6834ea" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:231211361,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="6d91a5c829036f7f6ae5e24e28cef832f8b1c544d2ccf4ce15f3d13521463654" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="BNqhRRVDSFlHML+6ATLKj3a+lanZSCHH5kiANAeiL5GpGj3RBTenFb9ISyEmVT8y4RHSTcxz9qPv6UO4sS3buQ==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="85938b5b59be7c54c8db11e4670e7c3a15a018f7aa7a7d70c58602ca7b3f3cfb">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="HlALN4dX8uxkYW4apFHa0i0laH9qMGyLmIgpQjpczOGzkJejlyMdoJwZmoGDNi9vuoovm38Lu++RKerOjNM4yQ==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:231211361,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="76b93399480d225604502d4a50d05f22b83a35293ce8a72f24abdc255628445e">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
 </button></form>  </div>
 </div>
 
-
-
-  
 
 
 
@@ -707,48 +704,17 @@
 
       <ul class="pagehead-actions">
 
-    <li>
-      <details id="funding-links-modal" class="details-reset details-overlay details-overlay-dark d-inline-block float-left" >
-        <summary id="sponsor-button-repo" class="btn btn-sm"
-          title="Sponsor BYR-Navi/BYR-Navi"
-          data-ga-click="Repository, show sponsor modal, action:blob#show; text:Sponsor"
-          >
-          <svg class="octicon octicon-heart text-pink v-align-middle" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9 2c-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-1.632.086-2.954 1.333-3 3 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.047-1.69-1.342-2.913-3-3z"/></svg>
-          Sponsor
-        </summary>
-        <details-dialog
-          class="anim-fade-in fast Box Box--overlay d-flex flex-column"
-            src="/BYR-Navi/BYR-Navi/funding_links?fragment=1"
-            preload
-          >
-          <div class="Box-header">
-            <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-              <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
-            </button>
-            <h3 class="Box-title">
-              Sponsor BYR-Navi/BYR-Navi
-            </h3>
-          </div>
-          <div class="overflow-auto">
-            <include-fragment
-              >
-              <div class="octocat-spinner my-3" aria-label="Loading..."></div>
-            </include-fragment>
-          </div>
-        </details-dialog>
-      </details>
-    </li>
 
 
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="pkFyjQnP0rsNOiKeomTo3fmTeo5EZtNl+Pr7qsrxFGG/8CpFRO94EkZ18Gke/+SqoUxjVfDkn0q5p4L26AQH8g==" />      <input type="hidden" name="repository_id" value="69995498">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="72dr0V0QP4Mfii2m13MTryBhOsnTjha75UMTQWy0W7b21jMZEDCVKlTF/1Fr6B/YeL4jEmcMWpSkHmodTkFIJQ==" />      <input type="hidden" name="repository_id" value="231211361">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="1117263e431b053a6862cf3571ca6ec192a7985efd46e52bd7fba71987942280" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:231211361,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="d6ed7080e65369b181f92095e295839ddcce4556ea956ac3d15ab73a0b5fc57b" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
-              Watch
+              Unwatch
           </span>
 </summary>        <details-menu
           class="select-menu-modal position-absolute mt-5"
@@ -757,7 +723,7 @@
             <span class="select-menu-title">Notifications</span>
           </div>
           <div class="select-menu-list">
-            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
+            <button type="submit" name="do" value="included" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
               <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
               <div class="select-menu-item-text">
                 <span class="select-menu-item-heading">Not watching</span>
@@ -781,7 +747,7 @@
               </div>
             </button>
 
-            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="false" role="menuitemradio">
+            <button type="submit" name="do" value="subscribed" class="select-menu-item width-full" aria-checked="true" role="menuitemradio">
               <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
               <div class="select-menu-item-text">
                 <span class="select-menu-item-heading">Watching</span>
@@ -808,55 +774,55 @@
         </details-menu>
       </details>
         <a class="social-count js-social-count"
-          href="/BYR-Navi/BYR-Navi/watchers"
-          aria-label="15 users are watching this repository">
-          15
+          href="/superdzj/navi.github.io/watchers"
+          aria-label="1 user is watching this repository">
+          1
         </a>
 </form>
   </li>
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/BYR-Navi/BYR-Navi/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="a2rodcmla1r03e40dwl3Mvd+vtyoQ3C7tw+n9wOQLj8/o7NkJvBdoBOpTEutvq0Sh51+Lcss6hSLUSSAqN17Ag==" />
+    <form class="starred js-social-form" action="/superdzj/navi.github.io/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="zyNwDYm2EAPCPXrDkOlJJVzWwJdh6ibChkExwPj4pYxQY891RaC5PkIpeZ2lAUmyW+ItUmeXbqPUhM7La/k4Ig==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar BYR-Navi/BYR-Navi" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="6ecf39d63200250fe448598fc19d604bbec98090f7d67a850130dd863b7b7fe0" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar superdzj/navi.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:231211361,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="d4ef8c25f8ac32e025c9fb04e59a5745783a19dbe2a6dcb136de0252f0598995" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Unstar
-</button>        <a class="social-count js-social-count" href="/BYR-Navi/BYR-Navi/stargazers"
-           aria-label="219 users starred this repository">
-           219
+</button>        <a class="social-count js-social-count" href="/superdzj/navi.github.io/stargazers"
+           aria-label="0 users starred this repository">
+           0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/BYR-Navi/BYR-Navi/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="OcBPHky2yLjD5I7P1ZsSXqRM6pXX+az6P76Y2sm1b+/YprIMnzzwfCbOT7n1ho2xR79Xwy3wwuLNAPPFh5tuEA==" />
+    <form class="unstarred js-social-form" action="/superdzj/navi.github.io/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DK8/zR1gfhzXMfiZ1rm+6jU9GEsKGubXHI+2801RezobH/Db6ZiRNyWMgoIjvTMOrxOUnNlcQqhylmtwJibe4A==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star BYR-Navi/BYR-Navi" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="4b85ddb975af80f3860eccafd8facf42418ca0674f0edc45a4fc21c0c36cf4a5" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star superdzj/navi.github.io" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:231211361,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="c282c05a97e7b43f3d4399eeaac6614ded386ee6dc8dbf8bbe45b1dd96391ceb" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Star
-</button>        <a class="social-count js-social-count" href="/BYR-Navi/BYR-Navi/stargazers"
-           aria-label="219 users starred this repository">
-          219
+</button>        <a class="social-count js-social-count" href="/superdzj/navi.github.io/stargazers"
+           aria-label="0 users starred this repository">
+          0
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/BYR-Navi/BYR-Navi/fork" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="gSRYPwe+Z6vAljsvJFlobWNUNtUyW2APM2i54lp2CV+ywsC29sDxRVT3jvole144uU1z37WjCcjqHWrHSsF+ng==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:69995498,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="e86a9b416e65c0c4ba130659684dee260b8759ea94060304f9b5e1f919af7824" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of BYR-Navi/BYR-Navi to your account" aria-label="Fork your own copy of BYR-Navi/BYR-Navi to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
-              Fork
-</button></form>
-    <a href="/BYR-Navi/BYR-Navi/network/members" class="social-count"
-       aria-label="103 users forked this repository">
-      103
+        <span class="btn btn-sm btn-with-count disabled tooltipped tooltipped-sw" aria-label="Cannot fork because you own this repository and are not a member of any organizations.">
+          <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          Fork
+</span>
+    <a href="/superdzj/navi.github.io/network/members" class="social-count"
+       aria-label="0 users forked this repository">
+      0
     </a>
   </li>
 </ul>
 
       <h1 class="public ">
     <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/BYR-Navi/hovercard" href="/BYR-Navi">BYR-Navi</a></span><!--
+  <span class="author" itemprop="author"><a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/superdzj/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/superdzj">superdzj</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/BYR-Navi/BYR-Navi">BYR-Navi</a></strong>
+--><strong itemprop="name"><a data-pjax="#js-repo-pjax-container" href="/superdzj/navi.github.io">navi.github.io</a></strong>
   
 
 </h1>
@@ -870,14 +836,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /BYR-Navi/BYR-Navi" href="/BYR-Navi/BYR-Navi">
+    <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /superdzj/navi.github.io" href="/superdzj/navi.github.io">
       <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg></div>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /BYR-Navi/BYR-Navi/issues" href="/BYR-Navi/BYR-Navi/issues">
+      <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /superdzj/navi.github.io/issues" href="/superdzj/navi.github.io/issues">
         <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg></div>
         <span itemprop="name">Issues</span>
         <span class="Counter">0</span>
@@ -886,7 +852,7 @@
 
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /BYR-Navi/BYR-Navi/pulls" href="/BYR-Navi/BYR-Navi/pulls">
+    <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /superdzj/navi.github.io/pulls" href="/superdzj/navi.github.io/pulls">
       <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg></div>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">0</span>
@@ -894,24 +860,34 @@
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left">
-      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /BYR-Navi/BYR-Navi/actions" href="/BYR-Navi/BYR-Navi/actions">
+      <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /superdzj/navi.github.io/actions" href="/superdzj/navi.github.io/actions">
         <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"/></svg></div>
         Actions
 </a>
     </span>
 
+    <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /superdzj/navi.github.io/projects" href="/superdzj/navi.github.io/projects">
+      <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"/></svg></div>
+      Projects
+      <span class="Counter" >0</span>
+</a>
 
-
-
-    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /BYR-Navi/BYR-Navi/security/advisories" href="/BYR-Navi/BYR-Navi/security/advisories">
+    <a class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /superdzj/navi.github.io/wiki" href="/superdzj/navi.github.io/wiki">
+      <div class="d-inline"><svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg></div>
+      Wiki
+</a>
+    <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /superdzj/navi.github.io/network/alerts" href="/superdzj/navi.github.io/network/alerts">
       <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"/></svg></div>
       Security
 </a>
-    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /BYR-Navi/BYR-Navi/pulse" href="/BYR-Navi/BYR-Navi/pulse">
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph pulse people /superdzj/navi.github.io/pulse" href="/superdzj/navi.github.io/pulse">
       <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg></div>
       Insights
 </a>
-
+    <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations repo_keys_settings issue_template_editor secrets_settings key_links_settings /superdzj/navi.github.io/settings" href="/superdzj/navi.github.io/settings">
+      <div class="d-inline"><svg class="octicon octicon-gear" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg></div>
+      Settings
+</a>
 </nav>
 
   <div class="reponav-wrapper reponav-small d-lg-none">
@@ -920,36 +896,47 @@
        itemtype="http://schema.org/BreadcrumbList">
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /BYR-Navi/BYR-Navi" href="/BYR-Navi/BYR-Navi">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages /superdzj/navi.github.io" href="/superdzj/navi.github.io">
         <span itemprop="name">Code</span>
         <meta itemprop="position" content="1">
 </a>    </span>
 
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /BYR-Navi/BYR-Navi/issues" href="/BYR-Navi/BYR-Navi/issues">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /superdzj/navi.github.io/issues" href="/superdzj/navi.github.io/issues">
           <span itemprop="name">Issues</span>
           <span class="Counter">0</span>
           <meta itemprop="position" content="2">
 </a>      </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /BYR-Navi/BYR-Navi/pulls" href="/BYR-Navi/BYR-Navi/pulls">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /superdzj/navi.github.io/pulls" href="/superdzj/navi.github.io/pulls">
         <span itemprop="name">Pull requests</span>
         <span class="Counter">0</span>
         <meta itemprop="position" content="3">
 </a>    </span>
 
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /superdzj/navi.github.io/projects" href="/superdzj/navi.github.io/projects">
+          <span itemprop="name">Projects</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="4">
+</a>      </span>
 
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_wiki /superdzj/navi.github.io/wiki" href="/superdzj/navi.github.io/wiki">
+          <span itemprop="name">Wiki</span>
+          <meta itemprop="position" content="5">
+</a>      </span>
 
-      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /BYR-Navi/BYR-Navi/security/advisories" href="/BYR-Navi/BYR-Navi/security/advisories">
+      <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="security alerts policy code_scanning /superdzj/navi.github.io/network/alerts" href="/superdzj/navi.github.io/network/alerts">
         <span itemprop="name">Security</span>
         <meta itemprop="position" content="6">
 </a>
-      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /BYR-Navi/BYR-Navi/pulse" href="/BYR-Navi/BYR-Navi/pulse">
+      <a class="js-selected-navigation-item reponav-item" data-selected-links="pulse /superdzj/navi.github.io/pulse" href="/superdzj/navi.github.io/pulse">
         Pulse
 </a>
       <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /BYR-Navi/BYR-Navi/community" href="/BYR-Navi/BYR-Navi/community">
+        <a itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="community /superdzj/navi.github.io/community" href="/superdzj/navi.github.io/community">
           Community
 </a>      </span>
 
@@ -968,9 +955,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/BYR-Navi/BYR-Navi/blob/0370bd1bf9faf801ad6c1c62217f46cdfde866bc/assets/js/analytics.js">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:149d7198a62de9556b3feaaba5e20c1b -->
+    <!-- blob contrib key: blob_contributors:v21:b04e3f059fa52195167c5bd0228228fb -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -980,11 +967,11 @@
   <summary class="btn btn-sm select-menu-button css-truncate"
            data-hotkey="w"
            title="Switch branches or tags">
-    <i>Branch:</i>
-    <span class="css-truncate-target" data-menu-button>master</span>
+    <i>Tree:</i>
+    <span class="css-truncate-target" data-menu-button>ae0c229f9a</span>
   </summary>
 
-  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/BYR-Navi/BYR-Navi/refs/master/assets/js/analytics.js?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="select-menu-modal hx_rsm-modal position-absolute" style="z-index: 99;" src="/superdzj/navi.github.io/refs/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js?source_action=show&amp;source_controller=blob" preload>
     <include-fragment class="select-menu-loading-overlay anim-pulse">
       <svg height="32" class="octicon octicon-octoface" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
     </include-fragment>
@@ -992,7 +979,7 @@
 </details>
 
         <div class="BtnGroup flex-shrink-0 d-md-none">
-          <a href="/BYR-Navi/BYR-Navi/find/master"
+          <a href="/superdzj/navi.github.io/find/ae0c229f9aad387f08e566801d9b9e88bf4608cf"
                 class="js-pjax-capture-input btn btn-sm BtnGroup-item"
                 data-pjax
                 data-hotkey="t">
@@ -1004,116 +991,11 @@
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/BYR-Navi/BYR-Navi"><span>BYR-Navi</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/BYR-Navi/BYR-Navi/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/BYR-Navi/BYR-Navi/tree/master/assets/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">analytics.js</strong>
-          <span class="separator">/</span>
-          
-<details class="details-reset details-overlay select-menu d-inline">
-  <summary class="btn-link link-gray select-menu-button css-truncate" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="d9161305d5b65ab4d437f858252a07bcd82417b7ea22d1cb7edf072bb3221e97">
-    <span data-menu-button>Jump to</span>
-  </summary>
-  <details-menu class="select-menu-modal position-absolute" style="z-index: 99;">
-    <div class="select-menu-header">
-      <span class="select-menu-title">Code definitions</span>
-    </div>
-    <div class="select-menu-filters">
-      <div class="select-menu-text-filter">
-        <input
-          type="text"
-          id="code-def-filter-field"
-          class="form-control js-filterable-field"
-          placeholder="Filter definitions"
-          aria-label="Filter definitions"
-          autofocus
-          autocomplete="off">
-      </div>
-    </div>
-    <div class="select-menu-list lh-default" data-filterable-for="code-def-filter-field" data-filterable-type="substring">
-      
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L5">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    siteEstablishedDays
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L70">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    updateVisit
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L231">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    updateVisitSummaryChart
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L400">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    normalizeSymbolSize
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L424">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    updateVisitHourlyChart
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L607">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    updateVisitMapChart
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-<a class="select-menu-item d-flex css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}" data-hydro-click-hmac="8971c686b3eab098baa96fb2ee7a23c08c91d7d30fd019e3eaaa261e501d8368" href="/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js#L804">
-  <div class="mx-1">
-    <svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"/></svg>
-  </div>
-  <div class="select-menu-item-text flex-auto css-truncate-target" data-menu-button-text>
-    updateVisitCalendarChart
-  </div>
-  <div class="ml-1">
-    Function
-  </div>
-</a>
-    </div>
-  </details-menu>
-</details>
-
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf"><span>navi.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" rel="nofollow" href="/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js"><span>js</span></a></span><span class="separator">/</span><strong class="final-path">analytics.js</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
-        <a href="/BYR-Navi/BYR-Navi/find/master"
+        <a href="/superdzj/navi.github.io/find/ae0c229f9aad387f08e566801d9b9e88bf4608cf"
               class="js-pjax-capture-input btn btn-sm BtnGroup-item"
               data-pjax
               data-hotkey="t">
@@ -1133,15 +1015,15 @@
   <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
       <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
         <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/iROCKBUNNY/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/iROCKBUNNY"><img class="avatar" src="https://avatars2.githubusercontent.com/u/4929394?s=40&amp;v=4" width="20" height="20" alt="@iROCKBUNNY" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/iROCKBUNNY/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/iROCKBUNNY">iROCKBUNNY</a>
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/superdzj/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/superdzj"><img class="avatar" src="https://avatars3.githubusercontent.com/u/17596984?s=40&amp;v=4" width="20" height="20" alt="@superdzj" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="author" data-hovercard-type="user" data-hovercard-url="/users/superdzj/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/superdzj">superdzj</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Update" class="link-gray" href="/BYR-Navi/BYR-Navi/commit/1ce0654bb70a950c9d652ad49508c21f33f45471">Update</a>
+              <a data-pjax="true" title="push" class="link-gray" href="/superdzj/navi.github.io/commit/ae0c229f9aad387f08e566801d9b9e88bf4608cf">push</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/BYR-Navi/BYR-Navi/commit/1ce0654bb70a950c9d652ad49508c21f33f45471" data-pjax>1ce0654</a>
-          <relative-time datetime="2019-12-31T22:01:43Z" class="no-wrap">Jan 1, 2020</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/superdzj/navi.github.io/commit/ae0c229f9aad387f08e566801d9b9e88bf4608cf" data-pjax>ae0c229</a>
+          <relative-time datetime="2020-01-01T12:07:20Z" class="no-wrap">Jan 1, 2020</relative-time>
         </span>
       </div>
 
@@ -1153,7 +1035,7 @@
         <details-dialog
           class="Box Box--overlay d-flex flex-column anim-fade-in fast"
           aria-label="Users who have contributed to this file"
-          src="/BYR-Navi/BYR-Navi/contributors-list/master/assets/js/analytics.js" preload>
+          src="/superdzj/navi.github.io/contributors-list/master/assets/js/analytics.js" preload>
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -1177,50 +1059,47 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      847 lines (840 sloc)
+      834 lines (827 sloc)
       <span class="file-info-divider"></span>
-    24 KB
+    23.7 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/BYR-Navi/BYR-Navi/raw/master/assets/js/analytics.js">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/BYR-Navi/BYR-Navi/blame/master/assets/js/analytics.js">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/BYR-Navi/BYR-Navi/commits/master/assets/js/analytics.js">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/superdzj/navi.github.io/raw/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/superdzj/navi.github.io/blame/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/superdzj/navi.github.io/commits/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js">History</a>
     </div>
 
 
     <div>
-            <a class="btn-octicon tooltipped tooltipped-nw hide-sm"
-               href="https://desktop.github.com"
-               aria-label="Open this file in GitHub Desktop"
-               data-ga-click="Repository, open with desktop, type:windows">
+            <button class="btn-octicon disabled tooltipped tooltipped-nw hide-sm"
+               type="button"
+               disabled
+               aria-label="You must be on a branch to open this file in GitHub Desktop">
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
-            </a>
-
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/BYR-Navi/BYR-Navi/edit/master/assets/js/analytics.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="5woJidN3JiVo8iGh3Olj0+zqvbSqOh46dfpg6gXMEBTLiJ82vKQykisihKl7NJs7L2xR8fI231YKXPHwjx2Zag==" />
-              <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
-                aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-                <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
-              </button>
-</form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/BYR-Navi/BYR-Navi/delete/master/assets/js/analytics.js" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="YeYwZoCG/BtV/4mpXwUfAuW+13MNZMkw2pDGWXQnFUOX9cEKvJyNvurIx4SN+L5v542I5uZDqAgS671gzipHwQ==" />
-            <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this project and delete the file" data-disable-with>
-              <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
             </button>
-</form>    </div>
+
+          <button type="button" class="btn-octicon disabled tooltipped tooltipped-nw"
+            aria-label="You must be on a branch to make or propose changes to this file">
+            <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
+          </button>
+          <button type="button" class="btn-octicon btn-octicon-danger disabled tooltipped tooltipped-nw"
+            aria-label="You must be on a branch to make or propose changes to this file">
+            <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
+          </button>
+    </div>
   </div>
 </div>
 
 
 
         <div class="f6 v-align-middle text-gray px-3 py-2 border-bottom bg-gray-light d-flex flex-justify-between">
-            <div class="d-flex text-mono">
-              <svg style="color: #28a745;" class="octicon octicon-primitive-dot mr-2" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 8c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"/></svg>
-              <span>You're using code navigation to jump to definitions or references.</span>
-            </div>
+            <p class="text-mono mb-0">
+              <svg style="color: #d3ac3b;" class="octicon octicon-primitive-dot" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 8c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"/></svg>
+              Code navigation is available for this repository but data for this commit does not exist.
+            </p>
             <div>
               <a href="https://help.github.com/en/articles/navigating-code-on-github">Learn more</a>
               or
@@ -4130,7 +4009,7 @@
       </tr>
       <tr>
         <td id="L723" class="blob-num js-line-number" data-line-number="723"></td>
-        <td id="LC723" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2016</span>,</td>
+        <td id="LC723" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2019</span>,</td>
       </tr>
       <tr>
         <td id="L724" class="blob-num js-line-number" data-line-number="724"></td>
@@ -4142,7 +4021,7 @@
       </tr>
       <tr>
         <td id="L726" class="blob-num js-line-number" data-line-number="726"></td>
-        <td id="LC726" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2017</span>,</td>
+        <td id="LC726" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2020</span>,</td>
       </tr>
       <tr>
         <td id="L727" class="blob-num js-line-number" data-line-number="727"></td>
@@ -4158,7 +4037,7 @@
       </tr>
       <tr>
         <td id="L730" class="blob-num js-line-number" data-line-number="730"></td>
-        <td id="LC730" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2018</span>,</td>
+        <td id="LC730" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2021</span>,</td>
       </tr>
       <tr>
         <td id="L731" class="blob-num js-line-number" data-line-number="731"></td>
@@ -4174,7 +4053,7 @@
       </tr>
       <tr>
         <td id="L734" class="blob-num js-line-number" data-line-number="734"></td>
-        <td id="LC734" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2019</span>,</td>
+        <td id="LC734" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2022</span>,</td>
       </tr>
       <tr>
         <td id="L735" class="blob-num js-line-number" data-line-number="735"></td>
@@ -4186,447 +4065,395 @@
       </tr>
       <tr>
         <td id="L737" class="blob-num js-line-number" data-line-number="737"></td>
-        <td id="LC737" class="blob-code blob-code-inner js-file-line">        }, {</td>
+        <td id="LC737" class="blob-code blob-code-inner js-file-line">        }],</td>
       </tr>
       <tr>
         <td id="L738" class="blob-num js-line-number" data-line-number="738"></td>
-        <td id="LC738" class="blob-code blob-code-inner js-file-line">            range<span class="pl-k">:</span> <span class="pl-c1">2020</span>,</td>
+        <td id="LC738" class="blob-code blob-code-inner js-file-line">        series<span class="pl-k">:</span> [{</td>
       </tr>
       <tr>
         <td id="L739" class="blob-num js-line-number" data-line-number="739"></td>
-        <td id="LC739" class="blob-code blob-code-inner js-file-line">            right<span class="pl-k">:</span> <span class="pl-c1">5</span>,</td>
+        <td id="LC739" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L740" class="blob-num js-line-number" data-line-number="740"></td>
-        <td id="LC740" class="blob-code blob-code-inner js-file-line">            top<span class="pl-k">:</span> <span class="pl-c1">780</span></td>
+        <td id="LC740" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L741" class="blob-num js-line-number" data-line-number="741"></td>
-        <td id="LC741" class="blob-code blob-code-inner js-file-line">        }],</td>
+        <td id="LC741" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">0</span>,</td>
       </tr>
       <tr>
         <td id="L742" class="blob-num js-line-number" data-line-number="742"></td>
-        <td id="LC742" class="blob-code blob-code-inner js-file-line">        series<span class="pl-k">:</span> [{</td>
+        <td id="LC742" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L743" class="blob-num js-line-number" data-line-number="743"></td>
-        <td id="LC743" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC743" class="blob-code blob-code-inner js-file-line">        }, {</td>
       </tr>
       <tr>
         <td id="L744" class="blob-num js-line-number" data-line-number="744"></td>
-        <td id="LC744" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC744" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L745" class="blob-num js-line-number" data-line-number="745"></td>
-        <td id="LC745" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">0</span>,</td>
+        <td id="LC745" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L746" class="blob-num js-line-number" data-line-number="746"></td>
-        <td id="LC746" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC746" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">1</span>,</td>
       </tr>
       <tr>
         <td id="L747" class="blob-num js-line-number" data-line-number="747"></td>
-        <td id="LC747" class="blob-code blob-code-inner js-file-line">        }, {</td>
+        <td id="LC747" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L748" class="blob-num js-line-number" data-line-number="748"></td>
-        <td id="LC748" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC748" class="blob-code blob-code-inner js-file-line">        }, {</td>
       </tr>
       <tr>
         <td id="L749" class="blob-num js-line-number" data-line-number="749"></td>
-        <td id="LC749" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC749" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L750" class="blob-num js-line-number" data-line-number="750"></td>
-        <td id="LC750" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">1</span>,</td>
+        <td id="LC750" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L751" class="blob-num js-line-number" data-line-number="751"></td>
-        <td id="LC751" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC751" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">2</span>,</td>
       </tr>
       <tr>
         <td id="L752" class="blob-num js-line-number" data-line-number="752"></td>
-        <td id="LC752" class="blob-code blob-code-inner js-file-line">        }, {</td>
+        <td id="LC752" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L753" class="blob-num js-line-number" data-line-number="753"></td>
-        <td id="LC753" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC753" class="blob-code blob-code-inner js-file-line">        }, {</td>
       </tr>
       <tr>
         <td id="L754" class="blob-num js-line-number" data-line-number="754"></td>
-        <td id="LC754" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC754" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L755" class="blob-num js-line-number" data-line-number="755"></td>
-        <td id="LC755" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">2</span>,</td>
+        <td id="LC755" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L756" class="blob-num js-line-number" data-line-number="756"></td>
-        <td id="LC756" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC756" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">3</span>,</td>
       </tr>
       <tr>
         <td id="L757" class="blob-num js-line-number" data-line-number="757"></td>
-        <td id="LC757" class="blob-code blob-code-inner js-file-line">        }, {</td>
+        <td id="LC757" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L758" class="blob-num js-line-number" data-line-number="758"></td>
-        <td id="LC758" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC758" class="blob-code blob-code-inner js-file-line">        }]</td>
       </tr>
       <tr>
         <td id="L759" class="blob-num js-line-number" data-line-number="759"></td>
-        <td id="LC759" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC759" class="blob-code blob-code-inner js-file-line">    },</td>
       </tr>
       <tr>
         <td id="L760" class="blob-num js-line-number" data-line-number="760"></td>
-        <td id="LC760" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">3</span>,</td>
+        <td id="LC760" class="blob-code blob-code-inner js-file-line">    media<span class="pl-k">:</span> [{</td>
       </tr>
       <tr>
         <td id="L761" class="blob-num js-line-number" data-line-number="761"></td>
-        <td id="LC761" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC761" class="blob-code blob-code-inner js-file-line">        query<span class="pl-k">:</span> {</td>
       </tr>
       <tr>
         <td id="L762" class="blob-num js-line-number" data-line-number="762"></td>
-        <td id="LC762" class="blob-code blob-code-inner js-file-line">        }, {</td>
+        <td id="LC762" class="blob-code blob-code-inner js-file-line">            maxWidth<span class="pl-k">:</span> <span class="pl-c1">767</span></td>
       </tr>
       <tr>
         <td id="L763" class="blob-num js-line-number" data-line-number="763"></td>
-        <td id="LC763" class="blob-code blob-code-inner js-file-line">            type<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>heatmap<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC763" class="blob-code blob-code-inner js-file-line">        },</td>
       </tr>
       <tr>
         <td id="L764" class="blob-num js-line-number" data-line-number="764"></td>
-        <td id="LC764" class="blob-code blob-code-inner js-file-line">            coordinateSystem<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>calendar<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC764" class="blob-code blob-code-inner js-file-line">        option<span class="pl-k">:</span> {</td>
       </tr>
       <tr>
         <td id="L765" class="blob-num js-line-number" data-line-number="765"></td>
-        <td id="LC765" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> <span class="pl-c1">4</span>,</td>
+        <td id="LC765" class="blob-code blob-code-inner js-file-line">            toolbox<span class="pl-k">:</span> {</td>
       </tr>
       <tr>
         <td id="L766" class="blob-num js-line-number" data-line-number="766"></td>
-        <td id="LC766" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC766" class="blob-code blob-code-inner js-file-line">                show<span class="pl-k">:</span> <span class="pl-c1">false</span></td>
       </tr>
       <tr>
         <td id="L767" class="blob-num js-line-number" data-line-number="767"></td>
-        <td id="LC767" class="blob-code blob-code-inner js-file-line">        }]</td>
+        <td id="LC767" class="blob-code blob-code-inner js-file-line">            },</td>
       </tr>
       <tr>
         <td id="L768" class="blob-num js-line-number" data-line-number="768"></td>
-        <td id="LC768" class="blob-code blob-code-inner js-file-line">    },</td>
+        <td id="LC768" class="blob-code blob-code-inner js-file-line">            visualMap<span class="pl-k">:</span> {</td>
       </tr>
       <tr>
         <td id="L769" class="blob-num js-line-number" data-line-number="769"></td>
-        <td id="LC769" class="blob-code blob-code-inner js-file-line">    media<span class="pl-k">:</span> [{</td>
+        <td id="LC769" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span></td>
       </tr>
       <tr>
         <td id="L770" class="blob-num js-line-number" data-line-number="770"></td>
-        <td id="LC770" class="blob-code blob-code-inner js-file-line">        query<span class="pl-k">:</span> {</td>
+        <td id="LC770" class="blob-code blob-code-inner js-file-line">            },</td>
       </tr>
       <tr>
         <td id="L771" class="blob-num js-line-number" data-line-number="771"></td>
-        <td id="LC771" class="blob-code blob-code-inner js-file-line">            maxWidth<span class="pl-k">:</span> <span class="pl-c1">767</span></td>
+        <td id="LC771" class="blob-code blob-code-inner js-file-line">            calendar<span class="pl-k">:</span> [{</td>
       </tr>
       <tr>
         <td id="L772" class="blob-num js-line-number" data-line-number="772"></td>
-        <td id="LC772" class="blob-code blob-code-inner js-file-line">        },</td>
+        <td id="LC772" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L773" class="blob-num js-line-number" data-line-number="773"></td>
-        <td id="LC773" class="blob-code blob-code-inner js-file-line">        option<span class="pl-k">:</span> {</td>
+        <td id="LC773" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L774" class="blob-num js-line-number" data-line-number="774"></td>
-        <td id="LC774" class="blob-code blob-code-inner js-file-line">            toolbox<span class="pl-k">:</span> {</td>
+        <td id="LC774" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">90</span></td>
       </tr>
       <tr>
         <td id="L775" class="blob-num js-line-number" data-line-number="775"></td>
-        <td id="LC775" class="blob-code blob-code-inner js-file-line">                show<span class="pl-k">:</span> <span class="pl-c1">false</span></td>
+        <td id="LC775" class="blob-code blob-code-inner js-file-line">            }, {</td>
       </tr>
       <tr>
         <td id="L776" class="blob-num js-line-number" data-line-number="776"></td>
-        <td id="LC776" class="blob-code blob-code-inner js-file-line">            },</td>
+        <td id="LC776" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L777" class="blob-num js-line-number" data-line-number="777"></td>
-        <td id="LC777" class="blob-code blob-code-inner js-file-line">            visualMap<span class="pl-k">:</span> {</td>
+        <td id="LC777" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L778" class="blob-num js-line-number" data-line-number="778"></td>
-        <td id="LC778" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span></td>
+        <td id="LC778" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">1220</span></td>
       </tr>
       <tr>
         <td id="L779" class="blob-num js-line-number" data-line-number="779"></td>
-        <td id="LC779" class="blob-code blob-code-inner js-file-line">            },</td>
+        <td id="LC779" class="blob-code blob-code-inner js-file-line">            }, {</td>
       </tr>
       <tr>
         <td id="L780" class="blob-num js-line-number" data-line-number="780"></td>
-        <td id="LC780" class="blob-code blob-code-inner js-file-line">            calendar<span class="pl-k">:</span> [{</td>
+        <td id="LC780" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L781" class="blob-num js-line-number" data-line-number="781"></td>
-        <td id="LC781" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC781" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L782" class="blob-num js-line-number" data-line-number="782"></td>
-        <td id="LC782" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC782" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">2350</span></td>
       </tr>
       <tr>
         <td id="L783" class="blob-num js-line-number" data-line-number="783"></td>
-        <td id="LC783" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">90</span></td>
+        <td id="LC783" class="blob-code blob-code-inner js-file-line">            }, {</td>
       </tr>
       <tr>
         <td id="L784" class="blob-num js-line-number" data-line-number="784"></td>
-        <td id="LC784" class="blob-code blob-code-inner js-file-line">            }, {</td>
+        <td id="LC784" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L785" class="blob-num js-line-number" data-line-number="785"></td>
-        <td id="LC785" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC785" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L786" class="blob-num js-line-number" data-line-number="786"></td>
-        <td id="LC786" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC786" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">3480</span></td>
       </tr>
       <tr>
         <td id="L787" class="blob-num js-line-number" data-line-number="787"></td>
-        <td id="LC787" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">1220</span></td>
+        <td id="LC787" class="blob-code blob-code-inner js-file-line">            }]</td>
       </tr>
       <tr>
         <td id="L788" class="blob-num js-line-number" data-line-number="788"></td>
-        <td id="LC788" class="blob-code blob-code-inner js-file-line">            }, {</td>
+        <td id="LC788" class="blob-code blob-code-inner js-file-line">        }</td>
       </tr>
       <tr>
         <td id="L789" class="blob-num js-line-number" data-line-number="789"></td>
-        <td id="LC789" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC789" class="blob-code blob-code-inner js-file-line">    }]</td>
       </tr>
       <tr>
         <td id="L790" class="blob-num js-line-number" data-line-number="790"></td>
-        <td id="LC790" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC790" class="blob-code blob-code-inner js-file-line">});</td>
       </tr>
       <tr>
         <td id="L791" class="blob-num js-line-number" data-line-number="791"></td>
-        <td id="LC791" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">2350</span></td>
+        <td id="LC791" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">updateVisitCalendarChart</span>() {</td>
       </tr>
       <tr>
         <td id="L792" class="blob-num js-line-number" data-line-number="792"></td>
-        <td id="LC792" class="blob-code blob-code-inner js-file-line">            }, {</td>
+        <td id="LC792" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">$</span>.<span class="pl-en">getJSON</span>(<span class="pl-smi">analyticsAPI</span>.<span class="pl-smi">url</span>, {</td>
       </tr>
       <tr>
         <td id="L793" class="blob-num js-line-number" data-line-number="793"></td>
-        <td id="LC793" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC793" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>module<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>API<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L794" class="blob-num js-line-number" data-line-number="794"></td>
-        <td id="LC794" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC794" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>method<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>VisitsSummary.getActions<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L795" class="blob-num js-line-number" data-line-number="795"></td>
-        <td id="LC795" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">3480</span></td>
+        <td id="LC795" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>idSite<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-smi">analyticsAPI</span>.<span class="pl-c1">id</span>,</td>
       </tr>
       <tr>
         <td id="L796" class="blob-num js-line-number" data-line-number="796"></td>
-        <td id="LC796" class="blob-code blob-code-inner js-file-line">            }, {</td>
+        <td id="LC796" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>period<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>day<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L797" class="blob-num js-line-number" data-line-number="797"></td>
-        <td id="LC797" class="blob-code blob-code-inner js-file-line">                orient<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>vertical<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC797" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>date<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">`</span>last<span class="pl-s1"><span class="pl-pse">${</span><span class="pl-en">siteEstablishedDays</span>()<span class="pl-pse">}</span></span><span class="pl-pds">`</span></span>,</td>
       </tr>
       <tr>
         <td id="L798" class="blob-num js-line-number" data-line-number="798"></td>
-        <td id="LC798" class="blob-code blob-code-inner js-file-line">                left<span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>center<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC798" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>format<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>JSON<span class="pl-pds">&#39;</span></span>,</td>
       </tr>
       <tr>
         <td id="L799" class="blob-num js-line-number" data-line-number="799"></td>
-        <td id="LC799" class="blob-code blob-code-inner js-file-line">                top<span class="pl-k">:</span> <span class="pl-c1">4610</span></td>
+        <td id="LC799" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>token_auth<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-smi">analyticsAPI</span>.<span class="pl-smi">token</span></td>
       </tr>
       <tr>
         <td id="L800" class="blob-num js-line-number" data-line-number="800"></td>
-        <td id="LC800" class="blob-code blob-code-inner js-file-line">            }]</td>
+        <td id="LC800" class="blob-code blob-code-inner js-file-line">    }, <span class="pl-k">function</span> (<span class="pl-smi">data</span>) {</td>
       </tr>
       <tr>
         <td id="L801" class="blob-num js-line-number" data-line-number="801"></td>
-        <td id="LC801" class="blob-code blob-code-inner js-file-line">        }</td>
+        <td id="LC801" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">var</span> cursorYear <span class="pl-k">=</span> firstYear;</td>
       </tr>
       <tr>
         <td id="L802" class="blob-num js-line-number" data-line-number="802"></td>
-        <td id="LC802" class="blob-code blob-code-inner js-file-line">    }]</td>
+        <td id="LC802" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">var</span> series <span class="pl-k">=</span> [{</td>
       </tr>
       <tr>
         <td id="L803" class="blob-num js-line-number" data-line-number="803"></td>
-        <td id="LC803" class="blob-code blob-code-inner js-file-line">});</td>
+        <td id="LC803" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> cursorYear <span class="pl-k">-</span> firstYear,</td>
       </tr>
       <tr>
         <td id="L804" class="blob-num js-line-number" data-line-number="804"></td>
-        <td id="LC804" class="blob-code blob-code-inner js-file-line"><span class="pl-k">function</span> <span class="pl-en">updateVisitCalendarChart</span>() {</td>
+        <td id="LC804" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L805" class="blob-num js-line-number" data-line-number="805"></td>
-        <td id="LC805" class="blob-code blob-code-inner js-file-line">    <span class="pl-smi">$</span>.<span class="pl-en">getJSON</span>(<span class="pl-smi">analyticsAPI</span>.<span class="pl-smi">url</span>, {</td>
+        <td id="LC805" class="blob-code blob-code-inner js-file-line">        }];</td>
       </tr>
       <tr>
         <td id="L806" class="blob-num js-line-number" data-line-number="806"></td>
-        <td id="LC806" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>module<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>API<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC806" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">for</span> (<span class="pl-k">var</span> i <span class="pl-k">in</span> data) {</td>
       </tr>
       <tr>
         <td id="L807" class="blob-num js-line-number" data-line-number="807"></td>
-        <td id="LC807" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>method<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>VisitsSummary.getActions<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC807" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">if</span> (data[i] <span class="pl-k">!==</span> <span class="pl-c1">0</span>) {</td>
       </tr>
       <tr>
         <td id="L808" class="blob-num js-line-number" data-line-number="808"></td>
-        <td id="LC808" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>idSite<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-smi">analyticsAPI</span>.<span class="pl-c1">id</span>,</td>
+        <td id="LC808" class="blob-code blob-code-inner js-file-line">                year <span class="pl-k">=</span> <span class="pl-c1">Number</span>(<span class="pl-smi">i</span>.<span class="pl-c1">slice</span>(<span class="pl-c1">0</span>, <span class="pl-c1">4</span>));</td>
       </tr>
       <tr>
         <td id="L809" class="blob-num js-line-number" data-line-number="809"></td>
-        <td id="LC809" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>period<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>day<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC809" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">if</span> (year <span class="pl-k">&gt;</span> cursorYear <span class="pl-k">&amp;&amp;</span> year <span class="pl-k">&lt;=</span> maxYear) {</td>
       </tr>
       <tr>
         <td id="L810" class="blob-num js-line-number" data-line-number="810"></td>
-        <td id="LC810" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>date<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">`</span>last<span class="pl-s1"><span class="pl-pse">${</span><span class="pl-en">siteEstablishedDays</span>()<span class="pl-pse">}</span></span><span class="pl-pds">`</span></span>,</td>
+        <td id="LC810" class="blob-code blob-code-inner js-file-line">                    cursorYear <span class="pl-k">=</span> year;</td>
       </tr>
       <tr>
         <td id="L811" class="blob-num js-line-number" data-line-number="811"></td>
-        <td id="LC811" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>format<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-s"><span class="pl-pds">&#39;</span>JSON<span class="pl-pds">&#39;</span></span>,</td>
+        <td id="LC811" class="blob-code blob-code-inner js-file-line">                    <span class="pl-smi">series</span>.<span class="pl-c1">push</span>({</td>
       </tr>
       <tr>
         <td id="L812" class="blob-num js-line-number" data-line-number="812"></td>
-        <td id="LC812" class="blob-code blob-code-inner js-file-line">        <span class="pl-s"><span class="pl-pds">&#39;</span>token_auth<span class="pl-pds">&#39;</span></span><span class="pl-k">:</span> <span class="pl-smi">analyticsAPI</span>.<span class="pl-smi">token</span></td>
+        <td id="LC812" class="blob-code blob-code-inner js-file-line">                        calendarIndex<span class="pl-k">:</span> cursorYear <span class="pl-k">-</span> firstYear,</td>
       </tr>
       <tr>
         <td id="L813" class="blob-num js-line-number" data-line-number="813"></td>
-        <td id="LC813" class="blob-code blob-code-inner js-file-line">    }, <span class="pl-k">function</span> (<span class="pl-smi">data</span>) {</td>
+        <td id="LC813" class="blob-code blob-code-inner js-file-line">                        data<span class="pl-k">:</span> []</td>
       </tr>
       <tr>
         <td id="L814" class="blob-num js-line-number" data-line-number="814"></td>
-        <td id="LC814" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">var</span> cursorYear <span class="pl-k">=</span> firstYear;</td>
+        <td id="LC814" class="blob-code blob-code-inner js-file-line">                    });</td>
       </tr>
       <tr>
         <td id="L815" class="blob-num js-line-number" data-line-number="815"></td>
-        <td id="LC815" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">var</span> series <span class="pl-k">=</span> [{</td>
+        <td id="LC815" class="blob-code blob-code-inner js-file-line">                } <span class="pl-k">else</span> <span class="pl-k">if</span> (year <span class="pl-k">&lt;</span> firstYear <span class="pl-k">||</span> year <span class="pl-k">&gt;</span> maxYear) {</td>
       </tr>
       <tr>
         <td id="L816" class="blob-num js-line-number" data-line-number="816"></td>
-        <td id="LC816" class="blob-code blob-code-inner js-file-line">            calendarIndex<span class="pl-k">:</span> cursorYear <span class="pl-k">-</span> firstYear,</td>
+        <td id="LC816" class="blob-code blob-code-inner js-file-line">                    <span class="pl-k">continue</span>;</td>
       </tr>
       <tr>
         <td id="L817" class="blob-num js-line-number" data-line-number="817"></td>
-        <td id="LC817" class="blob-code blob-code-inner js-file-line">            data<span class="pl-k">:</span> []</td>
+        <td id="LC817" class="blob-code blob-code-inner js-file-line">                };</td>
       </tr>
       <tr>
         <td id="L818" class="blob-num js-line-number" data-line-number="818"></td>
-        <td id="LC818" class="blob-code blob-code-inner js-file-line">        }];</td>
+        <td id="LC818" class="blob-code blob-code-inner js-file-line">                series[cursorYear <span class="pl-k">-</span> firstYear].<span class="pl-c1">data</span>.<span class="pl-c1">push</span>([</td>
       </tr>
       <tr>
         <td id="L819" class="blob-num js-line-number" data-line-number="819"></td>
-        <td id="LC819" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">for</span> (<span class="pl-k">var</span> i <span class="pl-k">in</span> data) {</td>
+        <td id="LC819" class="blob-code blob-code-inner js-file-line">                    <span class="pl-smi">echarts</span>.<span class="pl-smi">format</span>.<span class="pl-en">formatTime</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>yyyy-MM-dd<span class="pl-pds">&#39;</span></span>, i),</td>
       </tr>
       <tr>
         <td id="L820" class="blob-num js-line-number" data-line-number="820"></td>
-        <td id="LC820" class="blob-code blob-code-inner js-file-line">            <span class="pl-k">if</span> (data[i] <span class="pl-k">!==</span> <span class="pl-c1">0</span>) {</td>
+        <td id="LC820" class="blob-code blob-code-inner js-file-line">                    data[i]</td>
       </tr>
       <tr>
         <td id="L821" class="blob-num js-line-number" data-line-number="821"></td>
-        <td id="LC821" class="blob-code blob-code-inner js-file-line">                year <span class="pl-k">=</span> <span class="pl-c1">Number</span>(<span class="pl-smi">i</span>.<span class="pl-c1">slice</span>(<span class="pl-c1">0</span>, <span class="pl-c1">4</span>));</td>
+        <td id="LC821" class="blob-code blob-code-inner js-file-line">                ]);</td>
       </tr>
       <tr>
         <td id="L822" class="blob-num js-line-number" data-line-number="822"></td>
-        <td id="LC822" class="blob-code blob-code-inner js-file-line">                <span class="pl-k">if</span> (year <span class="pl-k">&gt;</span> cursorYear <span class="pl-k">&amp;&amp;</span> year <span class="pl-k">&lt;=</span> maxYear) {</td>
+        <td id="LC822" class="blob-code blob-code-inner js-file-line">            };</td>
       </tr>
       <tr>
         <td id="L823" class="blob-num js-line-number" data-line-number="823"></td>
-        <td id="LC823" class="blob-code blob-code-inner js-file-line">                    cursorYear <span class="pl-k">=</span> year;</td>
+        <td id="LC823" class="blob-code blob-code-inner js-file-line">        };</td>
       </tr>
       <tr>
         <td id="L824" class="blob-num js-line-number" data-line-number="824"></td>
-        <td id="LC824" class="blob-code blob-code-inner js-file-line">                    <span class="pl-smi">series</span>.<span class="pl-c1">push</span>({</td>
+        <td id="LC824" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">visitCalendarChart</span>.<span class="pl-en">setOption</span>({</td>
       </tr>
       <tr>
         <td id="L825" class="blob-num js-line-number" data-line-number="825"></td>
-        <td id="LC825" class="blob-code blob-code-inner js-file-line">                        calendarIndex<span class="pl-k">:</span> cursorYear <span class="pl-k">-</span> firstYear,</td>
+        <td id="LC825" class="blob-code blob-code-inner js-file-line">            series<span class="pl-k">:</span> series</td>
       </tr>
       <tr>
         <td id="L826" class="blob-num js-line-number" data-line-number="826"></td>
-        <td id="LC826" class="blob-code blob-code-inner js-file-line">                        data<span class="pl-k">:</span> []</td>
+        <td id="LC826" class="blob-code blob-code-inner js-file-line">        });</td>
       </tr>
       <tr>
         <td id="L827" class="blob-num js-line-number" data-line-number="827"></td>
-        <td id="LC827" class="blob-code blob-code-inner js-file-line">                    });</td>
+        <td id="LC827" class="blob-code blob-code-inner js-file-line">    });</td>
       </tr>
       <tr>
         <td id="L828" class="blob-num js-line-number" data-line-number="828"></td>
-        <td id="LC828" class="blob-code blob-code-inner js-file-line">                } <span class="pl-k">else</span> <span class="pl-k">if</span> (year <span class="pl-k">&lt;</span> firstYear <span class="pl-k">||</span> year <span class="pl-k">&gt;</span> maxYear) {</td>
+        <td id="LC828" class="blob-code blob-code-inner js-file-line">};</td>
       </tr>
       <tr>
         <td id="L829" class="blob-num js-line-number" data-line-number="829"></td>
-        <td id="LC829" class="blob-code blob-code-inner js-file-line">                    <span class="pl-k">continue</span>;</td>
+        <td id="LC829" class="blob-code blob-code-inner js-file-line"><span class="pl-en">updateVisitCalendarChart</span>();</td>
       </tr>
       <tr>
         <td id="L830" class="blob-num js-line-number" data-line-number="830"></td>
-        <td id="LC830" class="blob-code blob-code-inner js-file-line">                };</td>
+        <td id="LC830" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">setInterval</span>(<span class="pl-k">function</span> () {</td>
       </tr>
       <tr>
         <td id="L831" class="blob-num js-line-number" data-line-number="831"></td>
-        <td id="LC831" class="blob-code blob-code-inner js-file-line">                series[cursorYear <span class="pl-k">-</span> firstYear].<span class="pl-c1">data</span>.<span class="pl-c1">push</span>([</td>
+        <td id="LC831" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> (<span class="pl-k">!</span><span class="pl-c1">document</span>.<span class="pl-smi">hidden</span>) {</td>
       </tr>
       <tr>
         <td id="L832" class="blob-num js-line-number" data-line-number="832"></td>
-        <td id="LC832" class="blob-code blob-code-inner js-file-line">                    <span class="pl-smi">echarts</span>.<span class="pl-smi">format</span>.<span class="pl-en">formatTime</span>(<span class="pl-s"><span class="pl-pds">&#39;</span>yyyy-MM-dd<span class="pl-pds">&#39;</span></span>, i),</td>
+        <td id="LC832" class="blob-code blob-code-inner js-file-line">        <span class="pl-en">updateVisitCalendarChart</span>();</td>
       </tr>
       <tr>
         <td id="L833" class="blob-num js-line-number" data-line-number="833"></td>
-        <td id="LC833" class="blob-code blob-code-inner js-file-line">                    data[i]</td>
+        <td id="LC833" class="blob-code blob-code-inner js-file-line">    };</td>
       </tr>
       <tr>
         <td id="L834" class="blob-num js-line-number" data-line-number="834"></td>
-        <td id="LC834" class="blob-code blob-code-inner js-file-line">                ]);</td>
-      </tr>
-      <tr>
-        <td id="L835" class="blob-num js-line-number" data-line-number="835"></td>
-        <td id="LC835" class="blob-code blob-code-inner js-file-line">            };</td>
-      </tr>
-      <tr>
-        <td id="L836" class="blob-num js-line-number" data-line-number="836"></td>
-        <td id="LC836" class="blob-code blob-code-inner js-file-line">        };</td>
-      </tr>
-      <tr>
-        <td id="L837" class="blob-num js-line-number" data-line-number="837"></td>
-        <td id="LC837" class="blob-code blob-code-inner js-file-line">        <span class="pl-smi">visitCalendarChart</span>.<span class="pl-en">setOption</span>({</td>
-      </tr>
-      <tr>
-        <td id="L838" class="blob-num js-line-number" data-line-number="838"></td>
-        <td id="LC838" class="blob-code blob-code-inner js-file-line">            series<span class="pl-k">:</span> series</td>
-      </tr>
-      <tr>
-        <td id="L839" class="blob-num js-line-number" data-line-number="839"></td>
-        <td id="LC839" class="blob-code blob-code-inner js-file-line">        });</td>
-      </tr>
-      <tr>
-        <td id="L840" class="blob-num js-line-number" data-line-number="840"></td>
-        <td id="LC840" class="blob-code blob-code-inner js-file-line">    });</td>
-      </tr>
-      <tr>
-        <td id="L841" class="blob-num js-line-number" data-line-number="841"></td>
-        <td id="LC841" class="blob-code blob-code-inner js-file-line">};</td>
-      </tr>
-      <tr>
-        <td id="L842" class="blob-num js-line-number" data-line-number="842"></td>
-        <td id="LC842" class="blob-code blob-code-inner js-file-line"><span class="pl-en">updateVisitCalendarChart</span>();</td>
-      </tr>
-      <tr>
-        <td id="L843" class="blob-num js-line-number" data-line-number="843"></td>
-        <td id="LC843" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">setInterval</span>(<span class="pl-k">function</span> () {</td>
-      </tr>
-      <tr>
-        <td id="L844" class="blob-num js-line-number" data-line-number="844"></td>
-        <td id="LC844" class="blob-code blob-code-inner js-file-line">    <span class="pl-k">if</span> (<span class="pl-k">!</span><span class="pl-c1">document</span>.<span class="pl-smi">hidden</span>) {</td>
-      </tr>
-      <tr>
-        <td id="L845" class="blob-num js-line-number" data-line-number="845"></td>
-        <td id="LC845" class="blob-code blob-code-inner js-file-line">        <span class="pl-en">updateVisitCalendarChart</span>();</td>
-      </tr>
-      <tr>
-        <td id="L846" class="blob-num js-line-number" data-line-number="846"></td>
-        <td id="LC846" class="blob-code blob-code-inner js-file-line">    };</td>
-      </tr>
-      <tr>
-        <td id="L847" class="blob-num js-line-number" data-line-number="847"></td>
-        <td id="LC847" class="blob-code blob-code-inner js-file-line">}, <span class="pl-c1">60000</span>);</td>
+        <td id="LC834" class="blob-code blob-code-inner js-file-line">}, <span class="pl-c1">60000</span>);</td>
       </tr>
 </table>
 
@@ -4646,8 +4473,8 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/BYR-Navi/BYR-Navi/blame/0370bd1bf9faf801ad6c1c62217f46cdfde866bc/assets/js/analytics.js">View git blame</a></li>
-          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/BYR-Navi/BYR-Navi/issues/new">Reference in new issue</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/superdzj/navi.github.io/blame/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/superdzj/navi.github.io/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
   </details>
@@ -4669,12 +4496,12 @@
 
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
-     data-tagsearch-url="/BYR-Navi/BYR-Navi/find-symbols"
-     data-tagsearch-ref="master"
+     data-tagsearch-url="/superdzj/navi.github.io/find-symbols"
+     data-tagsearch-ref="ae0c229f9aad387f08e566801d9b9e88bf4608cf"
      data-tagsearch-path="assets/js/analytics.js"
      data-tagsearch-lang="JavaScript"
-     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:69995498,&quot;ref&quot;:&quot;master&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;FFA8:1075:65714D9:8F9CFC2:5E114AD2&quot;,&quot;originating_url&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/blob/master/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/BYR-Navi/BYR-Navi/tree/master/assets/js&quot;,&quot;user_id&quot;:17596984}}"
-     data-hydro-click-hmac="b053592c19f8d79bec17f256b18c61166f0c52eee58c77933edf5fe2df3310e9">
+     data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_symbol&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_symbol&quot;,&quot;repository_id&quot;:231211361,&quot;ref&quot;:&quot;ae0c229f9aad387f08e566801d9b9e88bf4608cf&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;client_id&quot;:&quot;2121630938.1577884131&quot;,&quot;originating_request_id&quot;:&quot;C056:1CB5:1BBBDE3:27406E9:5E114D04&quot;,&quot;originating_url&quot;:&quot;https://github.com/superdzj/navi.github.io/blob/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js/analytics.js&quot;,&quot;referrer&quot;:&quot;https://github.com/superdzj/navi.github.io/tree/ae0c229f9aad387f08e566801d9b9e88bf4608cf/assets/js&quot;,&quot;user_id&quot;:17596984}}"
+     data-hydro-click-hmac="b6d437833e03bc577ce3f1a3d9ba36e1bf1b47cd9efca712bb22e73b09307699">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box box-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
