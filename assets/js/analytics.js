@@ -759,6 +759,11 @@ visitCalendarChart.setOption({
             coordinateSystem: 'calendar',
             calendarIndex: 3,
             data: []
+        }, {
+            type: 'heatmap',
+            coordinateSystem: 'calendar',
+            calendarIndex: 4,
+            data: []
         }]
     },
     media: [{
