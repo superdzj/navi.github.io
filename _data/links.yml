@@ -1,10 +1,4 @@
 - categories:
-  - name: 博客
-    links:
-    - name: 南瓜园
-      style: basic
-      url: https://pumpkin.baklib.com
-
     - name: 如有乐享
       style: basic
       url: https://51.ruyo.net
@@ -56,10 +50,6 @@
     - name: Blaze
       style: basic
       url: https://blaze.now.sh
-
-    - name: Glyptodon Enterprise Demo
-      style: basic
-      url: https://demo.glyptodon.com
 
     - name: 聚名
       style: basic
@@ -176,7 +166,7 @@
 
     - name: 疯狂影视搜索
       style: basic
-      url: https://ifkdy.com
+      url: http://ifkdy.com
 
     - name: 高清电视直播
       style: basic
