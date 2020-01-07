@@ -1,8 +1,16 @@
 - id: gooogle
   name: Google
-  url: https://g.vearea.cn/search?source=hp&ei=KDQQXo7ZC8_6rQG6uJOIAQ&q={query}
+  url: https://google.fuckcloudnative.io/search?source=hp&ei=xZEUXu-pHJbl-gScvaTwBg&q={query}
   shortcut:
     icon: google red inverted
+    style: black
+    show: true
+
+- id: Searx
+  name: Searx
+  url: https://searx.be/?q={query}&categories=general&language=zh-CN
+  shortcut:
+    icon: times green inverted
     style: black
     show: true
 
