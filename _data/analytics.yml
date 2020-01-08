@@ -4,6 +4,6 @@ google:
 matomo:
   url: https://matomo.starkadu.ga/
   domains:
-  - "http://*.pumpkin.best"
+  - "https://*.pumpkin.best"
   site_id: 1
   token: 732f2a3403a55dca8d383b21d559fe52
