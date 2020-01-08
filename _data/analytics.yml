@@ -2,7 +2,7 @@ google:
   id: UA-100531691-1
 
 matomo:
-  url: https://matomo.starkadu.ga
+  url: https://matomo.starkadu.ga/
   domains:
   - "pumpkin.best"
   site_id: 1
