@@ -1,9 +1,9 @@
-show: 
+show: true
 memorial: false
-hitokoto: false
-content: 山上若水
-detail: 水善利万物而不争
+hitokoto: true
+content: 追求梦想，才是人类的生存之道。
+detail: 2020，砥砺前行。
 color: black
-icon: gifts
-image: true
-link: https://superdzj.github.io/donate/
+icon: mountain
+image: false
+link: https://byr-navi.com/donate/

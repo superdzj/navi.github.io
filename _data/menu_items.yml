@@ -13,28 +13,7 @@
   url: /analytics/
   active_key: analytics
 
-#- name: 捐赠
-#icon: donate
-#url: /donate/
-#active_key: donate
-
-- name: One Drive
-  icon: cloud
-  url: https://od.starkadu.ga
-  active_key: 
-
-- name: Google Drive
-  icon: google drive
-  url: https://super.adu.workers.dev
-  active_key: 
-
-- name: Aria2
-  icon: download
-  url: http://dl.starkadu.ga/docs
-  active_key: 
-  
-- name: 服务器状态
-  icon: server
-  url: http://ss.starkadu.ga
+- name: 捐赠
+  icon: donate
+  url: /donate/
   active_key: donate
-
