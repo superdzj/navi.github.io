@@ -1,479 +1,176 @@
 - categories:
-  - name: 购物
+  - name: 博客
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
-
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
-
-    - name: 京东
+    - name: 如有乐享
       style: basic
-      url: https://www.jd.com/
+      url: https://51.ruyo.net
 
-    - name: Amazon
-      icon: amazon yellow
+    - name: P3TERX ZONE
       style: basic
-      url: https://www.amazon.cn/
+      url: https://p3terx.com
 
-    - name: Apple
+    - name: 老D博客
       style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+      url: https://laod.cn
 
-    - name: 一号店
+    - name: 萌咖
       style: basic
-      url: https://www.yhd.com/
+      url: https://moeclub.org
 
-    - name: 当当
+    - name: LocMJJ博客
       style: basic
-      url: http://www.dangdang.com/
+      url: https://www.locmjj.com
 
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: MUJI
+    - name: Rat's Blog
       style: basic
-      url: http://www.muji.com.cn/
+      url: https://www.moerats.com
 
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
-      style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 造作
+    - name: 404 NOT FOUND
       style: basic
-      url: https://zaozuo.com/
+      url: https://404edublog.ml
 
-    - name: 锤子
+    - name: BFDZ
       style: basic
-      url: http://www.smartisan.com/
+      url: https://www.bfdz.ink
 
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
-
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
+    
 
   - name: 工具
     links:
-    - name: '12306'
-      icon: train red
+    - name: 奶牛快传
       style: basic
-      url: http://www.12306.cn/
+      url: https://cowtransfer.com
 
-    - name: 快递查询
-      icon: truck olive
+    - name: 文叔叔
       style: basic
-      url: http://www.kuaidi100.com/
+      url: https://www.wenshushu.cn
 
-    - name: 大众点评
-      icon: utensils orange
+    - name: Firefox Send
       style: basic
-      url: http://www.dianping.com/
+      url: https://send.firefox.com
 
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
-
-    - name: QQ邮箱
-      icon: qq black
+    - name: Blaze
       style: basic
-      url: https://mail.qq.com/
+      url: https://blaze.now.sh
 
-    - name: 新浪邮箱
-      icon: envelope red
+    - name: 聚名
       style: basic
-      url: https://mail.sina.com.cn/
+      url: http://www.jm.cn
 
-    - name: Gmail
-      icon: google red
+    - name: convertio
       style: basic
-      url: https://mail.google.com/
+      url: https://convertio.co/zh
 
-    - name: 谷歌翻译
-      icon: language blue
+    - name: Free Public DNS Server
       style: basic
-      url: https://translate.google.com/
+      url: https://dns.icoa.cn
 
-    - name: 百度翻译
-      icon: paw blue
+    - name: 在线工具
       style: basic
-      url: https://fanyi.baidu.com/
+      url: http://mctool.cn/
 
-    - name: 维基百科
-      icon: wikipedia w black
+    - name: webstack.cc
       style: basic
-      url: https://www.wikipedia.org/
-
-    - name: 彩云天气
-      icon: cloud olive
+      url: https://webstack.cc
+      
+    - name: 在线JSON校验格式化工具
       style: basic
-      url: http://caiyunapp.com/map
-
-    - name: 天眼查
+      url: https://www.bejson.com
+      
+    - name: 在线工具
       style: basic
-      url: https://www.tianyancha.com/
+      url: https://tool.oschina.net
+    
 
-  - name: 社交
+  - name: 海淘
     links:
-    - name: 微博
-      icon: weibo red
+    - name: Chemist Direct
       style: basic
-      url: https://weibo.com/
+      url: https://www.chemistdirect.com.au
 
-    - name: 微信网页版
-      icon: weixin green
+    - name: Pharmacy Online
       style: basic
-      url: https://wx.qq.com/
+      url: https://www.pharmacyonline.com.au
 
-    - name: 百度贴吧
-      icon: paw blue
+    - name: Pharmacy Direct
       style: basic
-      url: https://tieba.baidu.com/
+      url: https://www.pharmacydirect.com.au
 
-    - name: 知乎
-      icon: zhihu blue
+    - name: Chemist Warehouse
       style: basic
-      url: https://www.zhihu.com/
+      url: https://www.chemistwarehouse.com.au
 
-    - name: Quora
-      icon: quora red
+    - name: 吉祥邮
       style: basic
-      url: https://www.quora.com/
+      url: https://www.jixiangyou.com
 
-    - name: Facebook
-      icon: facebook f blue
-      style: basic
-      url: https://www.facebook.com/
-
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
-
-    - name: Instagram
-      icon: instagram pink
-      style: basic
-      url: https://www.instagram.com/
-
-    - name: GitHub
-      icon: github black
-      style: basic
-      url: https://github.com/
-
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
-
-  - name: 学习
-    links:
-    - name: Coursera
-      style: basic
-      url: https://www.coursera.org/
-
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
-
-  - name: 娱乐
-    links:
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
-    # - name: 土豆
-    #   style: basic
-    #   url: https://tudou.com/
-
-    - name: Youtube
-      icon: youtube red
-      style: basic
-      url: https://youtube.com/
-
-    - name: 爱奇艺
-      style: green
-      url: https://iqiyi.com/
-
-    - name: 芒果
-      style: orange
-      url: http://mgtv.com/
-
-    - name: 腾讯视频
-      style: basic
-      url: https://v.qq.com/
-
-    - name: 哔哩哔哩
-      style: pink
-      url: https://bilibili.com/
-
-    # - name: AcFun
-    #   style: basic
-    #   url: https://acfun.cn/
-
-    - name: 腾讯动漫
-      style: basic
-      url: https://ac.qq.com/
-
-    - name: 虾米
-      style: orange
-      url: https://xiami.com/
-
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
-
-    - name: 弯弯
-      style: blue
-      url: http://wanwansub.com/node/139
-
-    - name: 人人
-      style: blue
-      url: http://www.yyetss.com/
-
-    - name: 电波
-      style: basic
-      url: http://dbfansub.com/
-
-    - name: 猪猪
-      style: purple
-      url: http://www.zzrbl.com/
-
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
-
-    - name: 斗鱼
-      style: orange
-      url: https://douyu.com/
-
+   
 - categories:
-  - name: 北邮校园
+  - name: 虚拟服务器
     links:
-    - name: 北邮官网
+    - name: Heroku
       style: basic
-      url: http://www.bupt.edu.cn/
+      url: https://dashboard.heroku.com/apps
 
-    - name: 官方导航
+    - name: IBM CLOUD
       style: basic
-      url: http://dep.bupt.edu.cn/dh/
+      url: https://cloud.ibm.com
 
-    - name: 本科教务系统
+    - name: ORACLE CLOUD
       style: basic
-      url: http://jwxt.bupt.edu.cn/
+      url: https://console.ap-tokyo-1.oraclecloud.com
 
-    - name: 研究生教务系统
+    - name: virmach
       style: basic
-      url: http://yjxt.bupt.edu.cn/
+      url: https://billing.virmach.com/clientarea.php
 
-    - name: 教务处
+    - name: dynadot
       style: basic
-      url: http://jwc.bupt.edu.cn/
+      url: https://www.dynadot.com/zh
 
-    - name: 北邮人论坛
-      style: basic
-      url: https://bbs.byr.cn/
+   
 
-    - name: 北邮人BT
-      style: blue
-      url: https://bt.byr.cn/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
-
-    - name: 北邮IPTV
-      style: basic
-      url: http://tv.byr.cn/
-
-    - name: 信息门户
-      style: basic
-      url: http://my.bupt.edu.cn/
-
-    - name: 图书馆
-      style: basic
-      url: http://lib.bupt.edu.cn/
-
-    - name: 北邮贴吧
-      style: basic
-      url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-    - name: 校园网
-      style: basic
-      url: http://nic.bupt.edu.cn/
-
-    - name: 北邮邮箱
-      style: basic
-      url: http://mail.bupt.edu.cn/
-
-    - name: VPN服务
-      style: basic
-      url: http://nic.bupt.edu.cn/list/list.php?p=3_24_1
-
-    - name: 空闲自习室查询
-      style: basic
-      url: http://buptclass.com/
-
-  - name: 校园助手
+  - name: 论坛
     links:
-    - name: 空余教室查询
+    - name: 全球主机交流论坛
       style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
-
-    - name: 辅修专业
+      url: https://www.hostloc.com
+      
+    - name: 恩山无线论坛
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+      url: https://www.right.com.cn
 
-    - name: 毕业设计
+    - name: V2EX
       style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+      url: https://v2ex.com/
 
-    - name: 学生校际选修
+    - name: 矿渣社区
       style: basic
-      url: http://www.xueyuanlu.cn/
-
-    - name: 创新学分
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
-
-    - name: 课表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
-
-    - name: 考表查询
-      style: basic
-      url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-    - name: 出国成绩单办理
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-    - name: 教学事务流程
-      style: basic
-      url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-    - name: 创新实践平台
-      style: basic
-      url: http://cslab.bupt.edu.cn/innovation/
-
-    - name: 申请护照通行证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 补办学生证
-      style: basic
-      url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-    - name: 校园一卡通
-      style: basic
-      url: http://ecard.bupt.edu.cn/
-
-    - name: 办公电话
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-    - name: 校历
-      style: basic
-      url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
-
-  - name: 论坛相关
+      url: bbs.nas66.com
+      
+  - name: 影视
     links:
-    - name: 北邮人论坛
-      style: teal
-      url: http://bbs.byr.cn/
-
-    - name: 游客版论坛
+    - name: 奈菲影视
       style: basic
-      url: http://bbs.cloud.icybee.cn/
+      url: https://www.nfmovies.com
 
-    - name: 检索论坛内容
+    - name: 在线之家
       style: basic
-      url: http://search.icybee.cn/
+      url: https://www.zxzjs.com
 
-    - name: 检索用户发帖
+    - name: 乐福智能解析
       style: basic
-      url: http://search.lovezxp.com/
+      url: https://www.lefu.men/sp2
 
-    - name: 查看论坛数据
+    - name: NO视频
       style: basic
-      url: http://bbs.byr.cn/#!elite/path?v=/bbslists
+      url: https://www.novipnoad.com
 
-    - name: 论坛APP
-      icon: app store
-      style: black
-      url: http://itunes.apple.com/cn/app/bei-you-ren-lun-tan-bei-you/id1115232927
-
-    - name: 论坛APP
-      icon: google play
-      style: black
-      url: https://github.com/dss886/BYR-BBS-APP-Release
-
-    - name: 论坛官方微博
+    - name: 疯狂影视搜索
       style: basic
-      url: http://weibo.com/byrbbs
+      url: http://ifkdy.com
 
-    - name: 论坛投票区
+    - name: 高清电视直播
       style: basic
-      url: http://bbs.byr.cn/#!vote
+      url: http://ivi.bupt.edu.cn
 
-    - name: 玩转论坛指南
-      style: basic
-      url: http://bbs.byr.cn/#!article/Talking/5852307
