@@ -174,3 +174,11 @@
       style: basic
       url: http://ivi.bupt.edu.cn
 
+    - name: 最先看电影
+      style: basic
+      url: http://www.zuixiankan.com
+
+    - name: 洛皇影视
+      style: basic
+      url: http://www.ospho.cn
+
