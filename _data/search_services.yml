@@ -1,6 +1,6 @@
 - id: gooogle
   name: Google
-  url: https://google.fuckcloudnative.io/search?source=hp&ei=xZEUXu-pHJbl-gScvaTwBg&q={query}
+  url: https://google.littlepotato.life/search?source=hp&ei=5MIiXqoXiO76BOG8pUg&q={query}
   shortcut:
     icon: google red inverted
     style: black
