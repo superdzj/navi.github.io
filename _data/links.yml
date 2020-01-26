@@ -82,7 +82,6 @@
       url: https://tool.oschina.net
 
     - name: 彩云天气
-      icon: cloud olive
       style: basic
       url: http://caiyunapp.com/map
     
