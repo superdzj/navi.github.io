@@ -32,6 +32,11 @@
   icon: download
   url: http://dl.starkadu.ga
   active_key: 
+
+- name: Aria2
+  icon: download
+  url: https://durahan.herokuapp.com/ariang
+  active_key: 
   
 - name: 服务器状态
   icon: server
