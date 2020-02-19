@@ -337,13 +337,13 @@
 #    style: black
 #    show: false
 
-#- id: cilimao
-#  name: 磁力猫
-#  url: https://cilimao.space/search?word={query}
-#  shortcut:
-#    icon: magnet yellow inverted
-#    style: black
-#    show: false
+id: cilimao
+name: btdict
+url: https://btdict.com/search/{query}
+shortcut:
+icon: magnet teal inverted
+style: black
+show: true
 
 #- id: lime
 #  name: Lime Torrents
