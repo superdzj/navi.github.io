@@ -337,7 +337,7 @@
 #    style: black
 #    show: false
 
-id: cilimao
+- id: btdict
 name: btdict
 url: https://btdict.com/search/{query}
 shortcut:
