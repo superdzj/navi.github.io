@@ -338,12 +338,12 @@
 #    show: false
 
 - id: btdict
-name: btdict
-url: https://btdict.com/search/{query}
-shortcut:
-icon: magnet teal inverted
-style: black
-show: true
+  name: btdict
+  url: https://btdict.com/search/{query}
+  shortcut:
+    icon: magnet teal inverted
+    style: black
+    show: true
 
 #- id: lime
 #  name: Lime Torrents
