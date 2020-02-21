@@ -377,3 +377,51 @@
     style: black
     show: true
 
+- id: jxbf1
+  name: 解析播放一
+  url: https://api.sigujx.com/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf2
+  name: 解析播放二
+  url: https://jx.wslmf.com/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf3
+  name: 解析播放三
+  url: https://jx.618g.com/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf4
+  name: 解析播放四
+  url: https://vip.tadmin.cn/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf5
+  name: 解析播放五
+  url: https://www.xymav.com/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf6
+  name: 解析播放六
+  url: https://www.nxflv.com/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
