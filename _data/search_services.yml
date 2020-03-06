@@ -425,3 +425,10 @@
     style: black
     show: false
 
+- id: jxbf7
+  name: 解析播放七
+  url: https://okjx.cc/?url=={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
