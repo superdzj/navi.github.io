@@ -337,13 +337,13 @@
 #    style: black
 #    show: false
 
-- id: btdict
-  name: btdict
-  url: https://btdict.com/search/{query}
-  shortcut:
-    icon: magnet teal inverted
-    style: black
-    show: true
+#- id: btdict
+#  name: btdict
+#  url: https://btdict.com/search/{query}
+#  shortcut:
+#    icon: magnet teal inverted
+#    style: black
+#    show: true
 
 #- id: lime
 #  name: Lime Torrents
@@ -428,6 +428,14 @@
 - id: jxbf7
   name: 解析播放七
   url: https://okjx.cc/?url=={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf8
+  name: 解析播放八
+  url: http://jx.youyitv.com/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
