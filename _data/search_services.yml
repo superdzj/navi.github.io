@@ -345,6 +345,14 @@
     style: black
     show: true
 
+- id: cilipa
+  name: 磁力爬
+  url: https://www.cilipa.com/Search/{query}
+  shortcut:
+    icon: magnet pink inverted
+    style: black
+    show: true
+
 #- id: lime
 #  name: Lime Torrents
 #  url: https://limetorrents.cc/search/all/{query}/
