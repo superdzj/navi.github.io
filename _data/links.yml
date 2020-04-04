@@ -81,9 +81,17 @@
       style: basic
       url: https://tool.oschina.net
 
+    - name: 测吧
+      style: basic
+      url: http://ce8.com/
+
     - name: 彩云天气
       style: basic
       url: http://caiyunapp.com/map
+
+    - name: DEEPL
+      style: basic
+      url: https://www.deepl.com/translator
     
 
   - name: 海淘
@@ -131,6 +139,18 @@
     - name: dynadot
       style: basic
       url: https://www.dynadot.com/zh
+
+    - name: EUSERV
+      style: basic
+      url: https://support.euserv.com
+
+    - name: MOACK
+      style: basic
+      url: https://www.moack.co.kr
+
+    - name: ION
+      style: basic
+      url: https://ion.krypt.com/
 
    
 
