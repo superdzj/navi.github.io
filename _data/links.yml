@@ -100,6 +100,11 @@
       style: basic
       url: https://www.chemistdirect.com.au
 
+
+    - name: Chemist Direct 中文
+      style: basic
+      url: https://cn.chemistdirect.com.au
+
     - name: Pharmacy Online
       style: basic
       url: https://www.pharmacyonline.com.au
