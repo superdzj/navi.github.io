@@ -1,6 +1,6 @@
 - id: gooogle
   name: Google
-  url: https://google.littlepotato.life/search?source=hp&ei=5MIiXqoXiO76BOG8pUg&q={query}
+  url: https://chacha.design/search?q={query}
   shortcut:
     icon: google red inverted
     style: black
