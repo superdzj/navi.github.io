@@ -339,7 +339,7 @@
 
 - id: ciligou
   name: 磁力狗
-  url: https://http://ciligou0.org/search?word=={query}
+  url: http://ciligou0.org/search?word=={query}
   shortcut:
     icon: magnet teal inverted
     style: black
