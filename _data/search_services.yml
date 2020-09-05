@@ -339,7 +339,7 @@
 
 - id: ciligou
   name: 磁力狗
-  url: http://ciligou0.org/search?word={query}
+  url: http://clg8.net/search?word={query}
   shortcut:
     icon: magnet teal inverted
     style: black
@@ -347,7 +347,7 @@
 
 - id: cilipa
   name: 磁力爬
-  url: https://www.cilipa.com/Search/{query}
+  url: https://www.cilipapa.com/Search/{query}
   shortcut:
     icon: magnet pink inverted
     style: black
@@ -371,7 +371,7 @@
 
 - id: 618G
   name: 在线视频一
-  url: https://jx.618g.com/?url={query}
+  url: http://jiexi.xueshi.pro/so.php?wd={query}
   shortcut:
     icon: film brown inverted
     style: black
