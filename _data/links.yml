@@ -27,11 +27,15 @@
 
     - name: 404 NOT FOUND
       style: basic
-      url: https://404edublog.ml
+      url: https://404edublog.tk
 
     - name: BFDZ
       style: basic
       url: https://www.bfdz.ink
+
+    - name: 合集网
+      style: basic
+      url: https://www.heji.ltd/
 
     
 
@@ -92,6 +96,10 @@
     - name: DEEPL
       style: basic
       url: https://www.deepl.com/translator
+
+    - name: iOS APP在线安装
+      style: basic
+      url: https://appios.ml/
     
 
   - name: 海淘
@@ -211,3 +219,10 @@
       style: basic
       url: http://www.ospho.cn
 
+    - name: 片库
+      style: basic
+      url: https://www.pianku.tv/
+
+    - name: 低端影视
+      style: basic
+      url: https://ddrk.me/
