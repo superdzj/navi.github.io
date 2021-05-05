@@ -339,7 +339,7 @@
 
 - id: ciligou
   name: 磁力猫
-  url: http://clm0.org/search?word={query}
+  url: http://clm0.co/search?word={query}
   shortcut:
     icon: magnet teal inverted
     style: black
