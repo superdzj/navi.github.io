@@ -387,7 +387,7 @@
 
 - id: jxbf1
   name: 解析播放一
-  url: http://jx.myzch.cn/jx/?v={query}
+  url: http://svip.hexh.ink/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -419,7 +419,7 @@
 
 - id: jxbf5
   name: 解析播放五
-  url: https://www.1717yun.com/jx/ty.php?url={query}
+  url: https://api.u1o.net/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -443,7 +443,7 @@
 
 - id: jxbf8
   name: 解析播放八
-  url: http://jx.youyitv.com/?url={query}
+  url: https://svip.u1o.net/v.php?={query}
   shortcut:
     icon: film orange inverted
     style: black
