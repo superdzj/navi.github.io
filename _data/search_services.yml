@@ -443,7 +443,15 @@
 
 - id: jxbf8
   name: 解析播放八
-  url: https://svip.u1o.net/v.php?={query}
+  url: https://www.ckplayer.vip/jiexi/?url={query}
+  shortcut:
+    icon: film orange inverted
+    style: black
+    show: false
+
+- id: jxbf9
+  name: 解析播放九
+  url: https://api.jiexi.la/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
