@@ -353,6 +353,14 @@
     style: black
     show: true
 
+- id: wcili
+  name: 无极磁力
+  url: https://wcili.com/search?q={query}
+  shortcut:
+    icon: magnet yellow inverted
+    style: black
+    show: true
+
 #- id: lime
 #  name: Lime Torrents
 #  url: https://limetorrents.cc/search/all/{query}/
