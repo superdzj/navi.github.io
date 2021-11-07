@@ -379,7 +379,7 @@
 
 - id: 618G
   name: 在线视频一
-  url: https://www.lefu.men/sp2/so.php?wd={query}
+  url: http://jx.94yaokan.cn/?wd={query}
   shortcut:
     icon: film brown inverted
     style: black
@@ -395,7 +395,7 @@
 
 - id: jxbf1
   name: 解析播放一
-  url: http://svip.hexh.ink/?url={query}
+  url: https://www.8090.la/api/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
