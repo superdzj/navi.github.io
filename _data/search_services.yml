@@ -1,6 +1,6 @@
 - id: gooogle
   name: Google
-  url: https://gogoo.ml/search?source=hp&ei=ZR5cX921PJDj-AbBxpHYCA&q={query}
+  url: https://search.ahnu.cf/search?q={query}
   shortcut:
     icon: google red inverted
     style: black
@@ -347,7 +347,7 @@
 
 - id: cilipa
   name: 磁力爬
-  url: https://www.clp555.xyz/Search/{query}
+  url: https://www.cilipa77.fun/Search/{query}
   shortcut:
     icon: magnet pink inverted
     style: black
@@ -355,7 +355,7 @@
 
 - id: wcili
   name: 无极磁力
-  url: https://wcili.com/search?q={query}
+  url: https://cili.se/search?q={query}
   shortcut:
     icon: magnet yellow inverted
     style: black
