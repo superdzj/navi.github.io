@@ -395,7 +395,7 @@
 
 - id: jxbf1
   name: 解析播放一
-  url: https://www.8090.la/api/?url={query}
+  url: https:jx.xmflv.cc/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -403,7 +403,7 @@
 
 - id: jxbf2
   name: 解析播放二
-  url: https://www.kpezp.cn/jlexi.php?url={query}
+  url: https://jx.xmflv.com/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -411,7 +411,7 @@
 
 - id: jxbf3
   name: 解析播放三
-  url: http://api.myzch.cn/?url={query}
+  url: http://www.ckplayer.vip/jiexi/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -419,7 +419,7 @@
 
 - id: jxbf4
   name: 解析播放四
-  url: https://www.h8jx.com/jiexi.php?url={query}
+  url: https://jx.m3u8.tv/jiexi/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -427,7 +427,7 @@
 
 - id: jxbf5
   name: 解析播放五
-  url: https://api.u1o.net/?url={query}
+  url: https://jx.playerjy.com/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -435,7 +435,7 @@
 
 - id: jxbf6
   name: 解析播放六
-  url: https://www.8090g.cn/jiexi/?url={query}
+  url: https://www.playm3u8.cn/jiexi.php?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -443,7 +443,7 @@
 
 - id: jxbf7
   name: 解析播放七
-  url: https://okjx.cc/?url={query}
+  url: https://jx.jsonplayer.com/player/?url={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -451,7 +451,7 @@
 
 - id: jxbf8
   name: 解析播放八
-  url: https://www.ckplayer.vip/jiexi/?url={query}
+  url: https://svip.bljiex.cc/?v={query}
   shortcut:
     icon: film orange inverted
     style: black
@@ -459,7 +459,7 @@
 
 - id: jxbf9
   name: 解析播放九
-  url: https://api.jiexi.la/?url={query}
+  url: https://yparse.ik9.cc/index.php?url={query}
   shortcut:
     icon: film orange inverted
     style: black
